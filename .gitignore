@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#missing data 
+missing_stats.csv
+
+#web driver log 
+geckodriver.log
+
 # C extensions
 *.so
 
