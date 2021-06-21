@@ -23,19 +23,19 @@ Preliminary research information :
 
 ## Questions for analysis
 * Due to covid-19, how home crowd absence have impacted EPL match stats? Did the absence of the crowd in the stadium affect team performance (in decline or incline) when playing at home? (May have neglected effect of VAR introduction)
- **Home/Away Possession
-**Home/Away Shots on Target
-**Home/Away Shots
-**Home/Away Goals Scored per Game
-**Home/Away Win Rate
-**Home/Away Points per Game
+⋅⋅*Home/Away Possession
+⋅⋅*Home/Away Shots on Target
+⋅⋅*Home/Away Shots
+⋅⋅*Home/Away Goals Scored per Game
+⋅⋅*Home/Away Win Rate
+⋅⋅*Home/Away Points per Game
 
 * Performance Metrics Definition :
-**Shot on Target % = Shots on Target / Shots (Home/Away)
-**Quantity Conversion Rate = Goals / Shots (Home/Away)
-**Quality Conversion Rate  = Goals / Shots on Target (Home/Away)
-**Win Rate = No. of win / No. of games (Home/Away)
-**Points per game (Ppg) = Average points/game (Home / Away)
+⋅⋅*Shot on Target % = Shots on Target / Shots (Home/Away)
+⋅⋅*Quantity Conversion Rate = Goals / Shots (Home/Away)
+⋅⋅*Quality Conversion Rate  = Goals / Shots on Target (Home/Away)
+⋅⋅*Win Rate = No. of win / No. of games (Home/Away)
+⋅⋅*Points per game (Ppg) = Average points/game (Home / Away)
 
 * Relation of Ball Possession % vs Goal Conversion Rate
 * Made an similar analysis starting from 2019/2020 season (the introduction of VAR) but the sample size is too small and possible for imbalance data sampling.
