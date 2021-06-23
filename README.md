@@ -38,5 +38,4 @@ Preliminary research information :
     * Points per game (Ppg) = Average points/game (Home / Away)
 
 * Relation of Ball Possession % vs Goal Conversion Rate
-* Made an similar analysis starting from 2019/2020 season (the introduction of VAR) but the sample size is too small and possible for imbalance data sampling.
 * Compare the performance metrics between "big-6" and "non big-6" teams before and after covid-19. (note : Big-6 = "Manchester United", "Manchester City", "Liverpool", "Arsenal", "Chelsea", "Tottenham Hotspurs")
