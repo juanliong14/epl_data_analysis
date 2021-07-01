@@ -4,6 +4,9 @@ Data Analysis on how English Premier League (EPL) team perform before and after 
 ## Introduction
 The objective is to analyze English Premier League (EPL) match data from 2018/2019 to 2020/2021 season and make comparison of match statistics for period before and after covid-19. Each match data and statistics were scrapped from **[premierleague.com](https://www.premierleague.com/)**.
 
+The scraper code  was inspired by this helpful code by Otávio Simões Silveira. His web scraping blog: 
+https://python.plainenglish.io/how-to-build-a-football-dataset-with-web-scraping-d4deffcaa9ca
+
 Preliminary research information : 
 * 2018 / 2019 season —> match ID 38308 to 38687
 * 2019 / 2020 season —> match ID 46605 to 46984
