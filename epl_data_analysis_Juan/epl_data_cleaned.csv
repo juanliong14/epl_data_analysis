@@ -1,0 +1,1141 @@
+,match_id,match_date,matchweek,home_team,away_team,season,home_score,away_score,home_possession,away_possession,home_shots_on_target,away_shots_on_target,home_shots,away_shots,home_points,away_points
+0,38309,2018-08-11,Matchweek 1,AFC Bournemouth,Cardiff City,2018/2019,2,0,62.9,37.1,4,1,12,10,3,0
+1,38310,2018-08-11,Matchweek 1,Fulham,Crystal Palace,2018/2019,0,2,66.3,33.7,6,10,15,12,0,3
+2,38311,2018-08-11,Matchweek 1,Huddersfield Town,Chelsea,2018/2019,0,3,37.2,62.8,1,4,6,13,0,3
+3,38313,2018-08-11,Matchweek 1,Manchester United,Leicester City,2018/2019,2,1,46.3,53.7,6,4,8,13,3,0
+4,38314,2018-08-11,Matchweek 1,Newcastle United,Tottenham Hotspur,2018/2019,1,2,40.4,59.6,2,5,15,15,0,3
+5,38316,2018-08-11,Matchweek 1,Watford,Brighton and Hove Albion,2018/2019,2,0,53.2,46.8,5,0,19,6,3,0
+6,38317,2018-08-11,Matchweek 1,Wolverhampton Wanderers,Everton,2018/2019,2,2,57.4,42.6,4,5,11,8,1,1
+7,38308,2018-08-12,Matchweek 1,Arsenal,Manchester City,2018/2019,0,2,42.0,58.0,3,8,9,17,0,3
+8,38312,2018-08-12,Matchweek 1,Liverpool,West Ham United,2018/2019,4,0,64.8,35.2,8,2,18,5,3,0
+9,38315,2018-08-12,Matchweek 1,Southampton,Burnley,2018/2019,0,0,47.7,52.3,3,6,18,16,1,1
+10,38327,2018-08-18,Matchweek 2,West Ham United,AFC Bournemouth,2018/2019,1,2,61.0,39.0,5,5,11,12,0,3
+11,38326,2018-08-18,Matchweek 2,Tottenham Hotspur,Fulham,2018/2019,3,1,59.6,40.4,11,3,25,10,3,0
+12,38323,2018-08-18,Matchweek 2,Everton,Southampton,2018/2019,2,1,58.0,42.0,7,4,13,15,3,0
+13,38324,2018-08-18,Matchweek 2,Leicester City,Wolverhampton Wanderers,2018/2019,2,0,42.8,57.2,2,3,6,11,3,0
+14,38320,2018-08-18,Matchweek 2,Cardiff City,Newcastle United,2018/2019,0,0,51.3,48.7,1,6,12,12,1,1
+15,38321,2018-08-18,Matchweek 2,Chelsea,Arsenal,2018/2019,3,2,62.3,37.7,11,6,24,15,3,0
+16,38325,2018-08-19,Matchweek 2,Manchester City,Huddersfield Town,2018/2019,6,1,76.9,23.1,14,1,32,5,3,0
+17,38319,2018-08-19,Matchweek 2,Burnley,Watford,2018/2019,1,3,58.4,41.6,3,6,8,9,0,3
+18,38318,2018-08-19,Matchweek 2,Brighton and Hove Albion,Manchester United,2018/2019,3,2,33.4,66.6,3,3,6,9,3,0
+19,38322,2018-08-21,Matchweek 2,Crystal Palace,Liverpool,2018/2019,0,2,36.8,63.2,2,6,8,16,0,3
+20,38337,2018-08-25,Matchweek 3,Wolverhampton Wanderers,Manchester City,2018/2019,1,1,28.9,71.1,2,6,11,18,1,1
+21,38335,2018-08-25,Matchweek 3,Southampton,Leicester City,2018/2019,1,2,51.7,48.3,5,5,11,8,0,3
+22,38332,2018-08-25,Matchweek 3,Liverpool,Brighton and Hove Albion,2018/2019,1,0,70.0,30.0,8,2,22,6,3,0
+23,38331,2018-08-25,Matchweek 3,Huddersfield Town,Cardiff City,2018/2019,0,0,58.0,42.0,1,4,5,14,1,1
+24,38329,2018-08-25,Matchweek 3,AFC Bournemouth,Everton,2018/2019,2,2,49.9,50.1,5,3,17,11,1,1
+25,38328,2018-08-25,Matchweek 3,Arsenal,West Ham United,2018/2019,3,1,61.5,38.5,10,5,17,13,3,0
+26,38334,2018-08-26,Matchweek 3,Newcastle United,Chelsea,2018/2019,1,2,18.9,81.1,2,3,6,15,0,3
+27,38336,2018-08-26,Matchweek 3,Watford,Crystal Palace,2018/2019,2,1,43.7,56.3,5,3,13,9,3,0
+28,38330,2018-08-26,Matchweek 3,Fulham,Burnley,2018/2019,4,2,63.8,36.2,12,2,25,12,3,0
+29,38333,2018-08-28,Matchweek 3,Manchester United,Tottenham Hotspur,2018/2019,0,3,57.0,43.0,5,5,23,9,0,3
+30,38343,2018-09-01,Matchweek 4,Everton,Huddersfield Town,2018/2019,1,1,57.6,42.4,1,6,11,9,1,1
+31,38347,2018-09-01,Matchweek 4,West Ham United,Wolverhampton Wanderers,2018/2019,0,1,47.7,52.3,3,6,13,15,0,3
+32,38345,2018-09-01,Matchweek 4,Manchester City,Newcastle United,2018/2019,2,1,78.1,21.9,8,2,24,3,3,0
+33,38342,2018-09-01,Matchweek 4,Crystal Palace,Southampton,2018/2019,0,2,50.7,49.3,6,6,20,19,0,3
+34,38344,2018-09-01,Matchweek 4,Leicester City,Liverpool,2018/2019,1,2,51.2,48.8,5,4,12,10,0,3
+35,38341,2018-09-01,Matchweek 4,Chelsea,AFC Bournemouth,2018/2019,2,0,72.6,27.4,6,1,24,8,3,0
+36,38338,2018-09-01,Matchweek 4,Brighton and Hove Albion,Fulham,2018/2019,2,2,41.5,58.5,5,5,15,10,1,1
+37,38346,2018-09-02,Matchweek 4,Watford,Tottenham Hotspur,2018/2019,2,1,34.4,65.6,3,2,7,11,3,0
+38,38340,2018-09-02,Matchweek 4,Cardiff City,Arsenal,2018/2019,2,3,27.7,72.3,3,11,14,17,0,3
+39,38339,2018-09-02,Matchweek 4,Burnley,Manchester United,2018/2019,0,2,46.6,53.4,2,9,9,21,0,3
+40,38348,2018-09-15,Matchweek 5,AFC Bournemouth,Leicester City,2018/2019,4,2,46.7,53.3,5,8,10,14,3,0
+41,38349,2018-09-15,Matchweek 5,Chelsea,Cardiff City,2018/2019,4,1,76.8,23.2,7,2,18,6,3,0
+42,38351,2018-09-15,Matchweek 5,Huddersfield Town,Crystal Palace,2018/2019,0,1,58.4,41.6,2,2,15,7,0,3
+43,38353,2018-09-15,Matchweek 5,Newcastle United,Arsenal,2018/2019,1,2,36.3,63.7,2,2,4,12,0,3
+44,38355,2018-09-15,Matchweek 5,Tottenham Hotspur,Liverpool,2018/2019,1,2,60.4,39.6,3,10,11,17,0,3
+45,38356,2018-09-15,Matchweek 5,Watford,Manchester United,2018/2019,1,2,42.9,57.1,5,6,14,9,0,3
+46,38352,2018-09-15,Matchweek 5,Manchester City,Fulham,2018/2019,3,0,64.7,35.3,9,3,28,9,3,0
+47,38350,2018-09-16,Matchweek 5,Everton,West Ham United,2018/2019,1,3,55.9,44.1,4,4,16,9,0,3
+48,38357,2018-09-16,Matchweek 5,Wolverhampton Wanderers,Burnley,2018/2019,1,0,58.9,41.1,7,2,30,7,3,0
+49,38354,2018-09-18,Matchweek 5,Southampton,Brighton and Hove Albion,2018/2019,2,2,51.2,48.8,5,4,14,12,1,1
+50,38366,2018-09-22,Matchweek 6,Manchester United,Wolverhampton Wanderers,2018/2019,1,1,64.5,35.5,6,8,15,11,1,1
+51,38363,2018-09-22,Matchweek 6,Fulham,Watford,2018/2019,1,1,60.7,39.3,3,6,15,11,1,1
+52,38365,2018-09-22,Matchweek 6,Liverpool,Southampton,2018/2019,3,0,60.6,39.4,4,1,12,7,3,0
+53,38364,2018-09-22,Matchweek 6,Leicester City,Huddersfield Town,2018/2019,3,1,62.0,38.0,8,2,18,9,3,0
+54,38362,2018-09-22,Matchweek 6,Crystal Palace,Newcastle United,2018/2019,0,0,61.9,38.1,4,3,16,6,1,1
+55,38360,2018-09-22,Matchweek 6,Burnley,AFC Bournemouth,2018/2019,4,0,37.6,62.4,5,5,12,19,3,0
+56,38359,2018-09-22,Matchweek 6,Brighton and Hove Albion,Tottenham Hotspur,2018/2019,1,2,28.6,71.4,4,7,8,16,0,3
+57,38361,2018-09-22,Matchweek 6,Cardiff City,Manchester City,2018/2019,0,5,21.4,78.6,2,10,2,21,0,3
+58,38358,2018-09-23,Matchweek 6,Arsenal,Everton,2018/2019,2,0,62.5,37.5,5,6,9,10,3,0
+59,38367,2018-09-23,Matchweek 6,West Ham United,Chelsea,2018/2019,0,0,28.2,71.8,1,6,6,17,1,1
+60,38377,2018-09-29,Matchweek 7,Wolverhampton Wanderers,Southampton,2018/2019,2,0,48.8,51.2,6,6,14,17,3,0
+61,38376,2018-09-29,Matchweek 7,West Ham United,Manchester United,2018/2019,3,1,49.0,51.0,3,4,8,9,3,0
+62,38375,2018-09-29,Matchweek 7,Newcastle United,Leicester City,2018/2019,0,2,41.5,58.5,1,5,6,12,0,3
+63,38374,2018-09-29,Matchweek 7,Manchester City,Brighton and Hove Albion,2018/2019,2,0,80.1,19.9,8,1,28,4,3,0
+64,38373,2018-09-29,Matchweek 7,Huddersfield Town,Tottenham Hotspur,2018/2019,0,2,52.7,47.3,5,6,9,10,0,3
+65,38372,2018-09-29,Matchweek 7,Everton,Fulham,2018/2019,3,0,51.2,48.8,6,0,19,6,3,0
+66,38368,2018-09-29,Matchweek 7,Arsenal,Watford,2018/2019,2,0,63.5,36.5,2,5,9,14,3,0
+67,38371,2018-09-29,Matchweek 7,Chelsea,Liverpool,2018/2019,1,1,47.2,52.8,4,6,10,13,1,1
+68,38370,2018-09-30,Matchweek 7,Cardiff City,Burnley,2018/2019,1,2,54.3,45.7,5,2,20,3,0,3
+69,38369,2018-10-02,Matchweek 7,AFC Bournemouth,Crystal Palace,2018/2019,2,1,44.4,55.6,5,2,11,10,3,0
+70,38384,2018-10-06,Matchweek 8,Manchester United,Newcastle United,2018/2019,3,2,73.0,27.0,10,8,18,13,3,0
+71,38387,2018-10-06,Matchweek 8,Watford,AFC Bournemouth,2018/2019,0,4,47.2,52.8,2,7,14,10,0,3
+72,38386,2018-10-06,Matchweek 8,Tottenham Hotspur,Cardiff City,2018/2019,1,0,75.5,24.5,7,6,19,8,3,0
+73,38382,2018-10-06,Matchweek 8,Leicester City,Everton,2018/2019,1,2,51.3,48.7,2,8,8,17,0,3
+74,38378,2018-10-06,Matchweek 8,Brighton and Hove Albion,West Ham United,2018/2019,1,0,35.4,64.6,4,4,9,17,3,0
+75,38380,2018-10-06,Matchweek 8,Crystal Palace,Wolverhampton Wanderers,2018/2019,0,1,67.1,32.9,4,2,11,7,0,3
+76,38379,2018-10-06,Matchweek 8,Burnley,Huddersfield Town,2018/2019,1,1,31.8,68.2,3,2,6,18,1,1
+77,38383,2018-10-07,Matchweek 8,Liverpool,Manchester City,2018/2019,0,0,49.4,50.6,2,2,7,6,1,1
+78,38385,2018-10-07,Matchweek 8,Southampton,Chelsea,2018/2019,0,3,34.7,65.3,6,6,15,21,0,3
+79,38381,2018-10-07,Matchweek 8,Fulham,Arsenal,2018/2019,1,5,48.9,51.1,4,7,21,9,0,3
+80,38397,2018-10-20,Matchweek 9,Wolverhampton Wanderers,Watford,2018/2019,0,2,44.8,55.2,1,3,10,9,0,3
+81,38395,2018-10-20,Matchweek 9,Newcastle United,Brighton and Hove Albion,2018/2019,0,1,68.0,32.0,6,2,27,8,0,3
+82,38394,2018-10-20,Matchweek 9,Manchester City,Burnley,2018/2019,5,0,69.1,30.9,10,0,24,5,3,0
+83,38393,2018-10-20,Matchweek 9,Huddersfield Town,Liverpool,2018/2019,0,1,47.8,52.2,1,2,13,11,0,3
+84,38396,2018-10-20,Matchweek 9,West Ham United,Tottenham Hotspur,2018/2019,0,1,44.0,56.0,4,2,13,10,0,3
+85,38391,2018-10-20,Matchweek 9,Chelsea,Manchester United,2018/2019,2,2,62.3,37.7,6,4,21,7,1,1
+86,38390,2018-10-20,Matchweek 9,Cardiff City,Fulham,2018/2019,4,2,40.5,59.5,5,4,22,9,3,0
+87,38389,2018-10-20,Matchweek 9,AFC Bournemouth,Southampton,2018/2019,0,0,57.3,42.7,2,4,9,8,1,1
+88,38392,2018-10-21,Matchweek 9,Everton,Crystal Palace,2018/2019,2,0,59.8,40.2,4,3,20,7,3,0
+89,38388,2018-10-23,Matchweek 9,Arsenal,Leicester City,2018/2019,3,1,69.1,30.9,6,2,19,8,3,0
+90,38407,2018-10-27,Matchweek 10,Watford,Huddersfield Town,2018/2019,3,0,48.1,51.9,6,7,12,13,3,0
+91,38405,2018-10-27,Matchweek 10,Southampton,Newcastle United,2018/2019,0,0,50.2,49.8,4,0,22,6,1,1
+92,38403,2018-10-27,Matchweek 10,Liverpool,Cardiff City,2018/2019,4,1,79.6,20.4,7,1,19,2,3,0
+93,38402,2018-10-27,Matchweek 10,Leicester City,West Ham United,2018/2019,1,1,64.2,35.8,7,3,21,11,1,1
+94,38401,2018-10-27,Matchweek 10,Fulham,AFC Bournemouth,2018/2019,0,3,52.0,48.0,1,5,11,12,0,3
+95,38398,2018-10-27,Matchweek 10,Brighton and Hove Albion,Wolverhampton Wanderers,2018/2019,1,0,39.9,60.1,1,7,7,25,3,0
+96,38399,2018-10-28,Matchweek 10,Burnley,Chelsea,2018/2019,0,4,30.2,69.8,1,8,7,24,0,3
+97,38404,2018-10-28,Matchweek 10,Manchester United,Everton,2018/2019,2,1,53.7,46.3,10,6,14,14,3,0
+98,38400,2018-10-28,Matchweek 10,Crystal Palace,Arsenal,2018/2019,2,2,42.2,57.8,3,2,16,7,1,1
+99,38406,2018-10-30,Matchweek 10,Tottenham Hotspur,Manchester City,2018/2019,0,1,48.0,52.0,1,6,4,13,0,3
+100,38415,2018-11-03,Matchweek 11,Newcastle United,Watford,2018/2019,1,0,41.9,58.1,2,1,10,16,3,0
+101,38412,2018-11-03,Matchweek 11,Everton,Brighton and Hove Albion,2018/2019,3,1,61.5,38.5,3,3,14,5,3,0
+102,38416,2018-11-03,Matchweek 11,West Ham United,Burnley,2018/2019,4,2,62.8,37.2,10,3,22,6,3,0
+103,38409,2018-11-03,Matchweek 11,AFC Bournemouth,Manchester United,2018/2019,1,2,48.7,51.3,7,8,18,18,0,3
+104,38410,2018-11-03,Matchweek 11,Cardiff City,Leicester City,2018/2019,0,1,40.1,59.9,2,5,11,13,0,3
+105,38411,2018-11-04,Matchweek 11,Chelsea,Crystal Palace,2018/2019,3,1,73.7,26.3,6,2,15,7,3,0
+106,38414,2018-11-04,Matchweek 11,Manchester City,Southampton,2018/2019,6,1,67.3,32.7,8,6,18,13,3,0
+107,38408,2018-11-04,Matchweek 11,Arsenal,Liverpool,2018/2019,1,1,61.8,38.2,4,4,12,13,1,1
+108,38417,2018-11-04,Matchweek 11,Wolverhampton Wanderers,Tottenham Hotspur,2018/2019,2,3,48.6,51.4,7,8,16,10,0,3
+109,38413,2018-11-06,Matchweek 11,Huddersfield Town,Fulham,2018/2019,1,0,45.1,54.9,2,1,10,8,3,0
+110,38427,2018-11-10,Matchweek 12,Southampton,Watford,2018/2019,1,1,42.3,57.7,4,6,14,12,1,1
+111,38426,2018-11-10,Matchweek 12,Newcastle United,AFC Bournemouth,2018/2019,2,1,39.3,60.7,6,4,18,14,3,0
+112,38422,2018-11-10,Matchweek 12,Huddersfield Town,West Ham United,2018/2019,1,1,43.9,56.1,7,5,15,12,1,1
+113,38423,2018-11-10,Matchweek 12,Leicester City,Burnley,2018/2019,0,0,63.0,37.0,5,1,22,6,1,1
+114,38419,2018-11-10,Matchweek 12,Cardiff City,Brighton and Hove Albion,2018/2019,2,1,60.6,39.4,6,3,20,7,3,0
+115,38420,2018-11-11,Matchweek 12,Chelsea,Everton,2018/2019,0,0,68.7,31.3,4,1,15,6,1,1
+116,38424,2018-11-11,Matchweek 12,Liverpool,Fulham,2018/2019,2,0,73.0,27.0,7,3,21,8,3,0
+117,38425,2018-11-11,Matchweek 12,Manchester City,Manchester United,2018/2019,3,1,64.9,35.1,5,1,17,6,3,0
+118,38418,2018-11-11,Matchweek 12,Arsenal,Wolverhampton Wanderers,2018/2019,1,1,71.7,28.3,3,5,10,13,1,1
+119,38421,2018-11-11,Matchweek 12,Crystal Palace,Tottenham Hotspur,2018/2019,0,1,35.4,64.6,5,2,11,11,0,3
+120,38435,2018-11-24,Matchweek 13,Watford,Liverpool,2018/2019,0,3,36.3,63.7,1,7,5,10,0,3
+121,38429,2018-11-24,Matchweek 13,Brighton and Hove Albion,Leicester City,2018/2019,1,1,54.6,45.4,3,3,14,8,1,1
+122,38431,2018-11-24,Matchweek 13,Everton,Cardiff City,2018/2019,1,0,70.7,29.3,8,1,16,7,3,0
+123,38432,2018-11-24,Matchweek 13,Fulham,Southampton,2018/2019,3,2,37.2,62.8,5,8,10,19,3,0
+124,38433,2018-11-24,Matchweek 13,Manchester United,Crystal Palace,2018/2019,0,0,59.8,40.2,5,2,12,13,1,1
+125,38436,2018-11-24,Matchweek 13,West Ham United,Manchester City,2018/2019,0,4,30.7,69.3,1,6,9,9,0,3
+126,38428,2018-11-25,Matchweek 13,AFC Bournemouth,Arsenal,2018/2019,1,2,41.3,58.7,5,4,11,20,0,3
+127,38437,2018-11-25,Matchweek 13,Wolverhampton Wanderers,Huddersfield Town,2018/2019,0,2,44.8,55.2,3,6,12,14,0,3
+128,38434,2018-11-25,Matchweek 13,Tottenham Hotspur,Chelsea,2018/2019,3,1,39.9,60.1,9,2,18,13,3,0
+129,38430,2018-11-27,Matchweek 13,Burnley,Newcastle United,2018/2019,1,2,56.5,43.5,4,3,14,17,0,3
+130,38439,2018-12-01,Matchweek 14,Cardiff City,Wolverhampton Wanderers,2018/2019,2,1,47.9,52.1,3,4,17,15,3,0
+131,38441,2018-12-01,Matchweek 14,Crystal Palace,Burnley,2018/2019,2,0,58.6,41.4,9,0,29,4,3,0
+132,38442,2018-12-01,Matchweek 14,Huddersfield Town,Brighton and Hove Albion,2018/2019,1,2,32.1,67.9,2,6,7,14,0,3
+133,38443,2018-12-01,Matchweek 14,Leicester City,Watford,2018/2019,2,0,37.7,62.3,3,0,7,8,3,0
+134,38445,2018-12-01,Matchweek 14,Manchester City,AFC Bournemouth,2018/2019,3,1,73.1,26.9,6,1,16,4,3,0
+135,38446,2018-12-01,Matchweek 14,Newcastle United,West Ham United,2018/2019,0,3,58.7,41.3,4,4,16,7,0,3
+136,38438,2018-12-02,Matchweek 14,Arsenal,Tottenham Hotspur,2018/2019,4,2,59.3,40.7,7,6,22,11,3,0
+137,38440,2018-12-02,Matchweek 14,Chelsea,Fulham,2018/2019,2,0,66.0,34.0,9,4,16,9,3,0
+138,38444,2018-12-02,Matchweek 14,Liverpool,Everton,2018/2019,1,0,57.6,42.4,3,3,16,9,3,0
+139,38447,2018-12-02,Matchweek 14,Southampton,Manchester United,2018/2019,2,2,40.3,59.7,6,5,16,11,1,1
+140,38454,2018-12-05,Matchweek 15,West Ham United,Cardiff City,2018/2019,3,1,61.0,39.0,11,5,17,9,3,0
+141,38453,2018-12-05,Matchweek 15,Watford,Manchester City,2018/2019,1,2,29.9,70.1,7,7,11,15,0,3
+142,38448,2018-12-05,Matchweek 15,AFC Bournemouth,Huddersfield Town,2018/2019,2,1,32.8,67.2,2,6,6,23,3,0
+143,38449,2018-12-05,Matchweek 15,Brighton and Hove Albion,Crystal Palace,2018/2019,3,1,31.5,68.5,3,5,9,18,3,0
+144,38451,2018-12-06,Matchweek 15,Fulham,Leicester City,2018/2019,1,1,45.5,54.5,7,5,25,13,1,1
+145,38457,2018-12-06,Matchweek 15,Tottenham Hotspur,Southampton,2018/2019,3,1,52.1,47.9,8,5,13,18,3,0
+146,38456,2018-12-06,Matchweek 15,Everton,Newcastle United,2018/2019,1,1,76.3,23.7,3,5,19,8,1,1
+147,38450,2018-12-06,Matchweek 15,Burnley,Liverpool,2018/2019,1,3,25.8,74.2,6,12,10,18,0,3
+148,38452,2018-12-06,Matchweek 15,Manchester United,Arsenal,2018/2019,2,2,44.8,55.2,7,4,10,9,1,1
+149,38455,2018-12-06,Matchweek 15,Wolverhampton Wanderers,Chelsea,2018/2019,2,1,29.9,70.1,2,3,6,17,3,0
+150,38458,2018-12-08,Matchweek 16,Arsenal,Huddersfield Town,2018/2019,1,0,61.9,38.1,2,0,14,6,3,0
+151,38459,2018-12-08,Matchweek 16,AFC Bournemouth,Liverpool,2018/2019,0,4,40.5,59.5,2,4,8,10,0,3
+152,38460,2018-12-08,Matchweek 16,Burnley,Brighton and Hove Albion,2018/2019,1,0,37.4,62.6,4,1,14,14,3,0
+153,38461,2018-12-08,Matchweek 16,Cardiff City,Southampton,2018/2019,1,0,36.2,63.8,4,1,13,12,3,0
+154,38465,2018-12-08,Matchweek 16,Manchester United,Fulham,2018/2019,4,1,62.7,37.3,11,4,20,10,3,0
+155,38467,2018-12-08,Matchweek 16,West Ham United,Crystal Palace,2018/2019,3,2,48.3,51.7,6,4,13,8,3,0
+156,38464,2018-12-09,Matchweek 16,Leicester City,Tottenham Hotspur,2018/2019,0,2,42.2,57.8,3,2,11,7,0,3
+157,38462,2018-12-09,Matchweek 16,Chelsea,Manchester City,2018/2019,2,0,38.7,61.3,5,4,8,14,3,0
+158,38466,2018-12-09,Matchweek 16,Newcastle United,Wolverhampton Wanderers,2018/2019,1,2,50.4,49.6,4,6,12,13,0,3
+159,38463,2018-12-11,Matchweek 16,Everton,Watford,2018/2019,2,2,56.6,43.4,5,3,12,15,1,1
+160,38471,2018-12-15,Matchweek 17,Huddersfield Town,Newcastle United,2018/2019,0,1,73.5,26.5,5,5,15,8,0,3
+161,38476,2018-12-15,Matchweek 17,Watford,Cardiff City,2018/2019,3,2,71.5,28.5,8,3,17,10,3,0
+162,38475,2018-12-15,Matchweek 17,Tottenham Hotspur,Burnley,2018/2019,1,0,70.3,29.7,3,0,15,4,3,0
+163,38477,2018-12-15,Matchweek 17,Wolverhampton Wanderers,AFC Bournemouth,2018/2019,2,0,37.8,62.2,4,3,10,13,3,0
+164,38469,2018-12-15,Matchweek 17,Crystal Palace,Leicester City,2018/2019,1,0,43.3,56.7,1,2,8,12,3,0
+165,38473,2018-12-15,Matchweek 17,Manchester City,Everton,2018/2019,3,1,67.0,33.0,5,2,13,9,3,0
+166,38468,2018-12-16,Matchweek 17,Brighton and Hove Albion,Chelsea,2018/2019,1,2,41.7,58.3,2,3,6,10,0,3
+167,38472,2018-12-16,Matchweek 17,Liverpool,Manchester United,2018/2019,3,1,64.5,35.5,11,2,36,6,3,0
+168,38470,2018-12-16,Matchweek 17,Fulham,West Ham United,2018/2019,0,2,56.0,44.0,4,3,16,6,0,3
+169,38474,2018-12-16,Matchweek 17,Southampton,Arsenal,2018/2019,3,2,33.8,66.2,7,4,12,13,3,0
+170,38484,2018-12-22,Matchweek 18,Manchester City,Crystal Palace,2018/2019,2,3,78.3,21.7,5,3,19,5,0,3
+171,38487,2018-12-22,Matchweek 18,Wolverhampton Wanderers,Liverpool,2018/2019,0,2,38.3,61.7,5,6,11,15,0,3
+172,38486,2018-12-22,Matchweek 18,West Ham United,Watford,2018/2019,0,2,51.6,48.4,7,5,18,11,0,3
+173,38483,2018-12-22,Matchweek 18,Huddersfield Town,Southampton,2018/2019,1,3,62.3,37.7,5,6,16,13,0,3
+174,38485,2018-12-22,Matchweek 18,Newcastle United,Fulham,2018/2019,0,0,53.5,46.5,0,2,9,4,1,1
+175,38481,2018-12-22,Matchweek 18,Chelsea,Leicester City,2018/2019,0,1,72.1,27.9,5,3,17,8,0,3
+176,38479,2018-12-22,Matchweek 18,AFC Bournemouth,Brighton and Hove Albion,2018/2019,2,0,57.2,42.8,3,5,14,10,3,0
+177,38478,2018-12-22,Matchweek 18,Arsenal,Burnley,2018/2019,3,1,60.1,39.9,6,2,11,7,3,0
+178,38480,2018-12-23,Matchweek 18,Cardiff City,Manchester United,2018/2019,1,5,25.7,74.3,3,9,9,17,0,3
+179,38482,2018-12-23,Matchweek 18,Everton,Tottenham Hotspur,2018/2019,2,6,41.5,58.5,3,8,10,17,0,3
+180,38494,2018-12-26,Matchweek 19,Manchester United,Huddersfield Town,2018/2019,3,1,64.7,35.3,10,2,16,10,3,0
+181,38489,2018-12-26,Matchweek 19,Burnley,Everton,2018/2019,1,5,49.0,51.0,4,6,11,13,0,3
+182,38490,2018-12-26,Matchweek 19,Crystal Palace,Cardiff City,2018/2019,0,0,62.4,37.6,5,4,31,9,1,1
+183,38491,2018-12-26,Matchweek 19,Fulham,Wolverhampton Wanderers,2018/2019,1,1,29.8,70.2,5,5,11,14,1,1
+184,38492,2018-12-26,Matchweek 19,Leicester City,Manchester City,2018/2019,2,1,33.9,66.1,5,4,10,11,3,0
+185,38493,2018-12-26,Matchweek 19,Liverpool,Newcastle United,2018/2019,4,0,75.0,25.0,8,2,16,6,3,0
+186,38496,2018-12-26,Matchweek 19,Tottenham Hotspur,AFC Bournemouth,2018/2019,5,0,56.7,43.3,7,4,10,14,3,0
+187,38497,2018-12-27,Matchweek 19,Watford,Chelsea,2018/2019,1,2,35.0,65.0,2,4,11,10,0,3
+188,38488,2018-12-27,Matchweek 19,Brighton and Hove Albion,Arsenal,2018/2019,1,1,32.0,68.0,3,4,12,7,1,1
+189,38495,2018-12-28,Matchweek 19,Southampton,West Ham United,2018/2019,1,2,45.8,54.2,5,5,11,16,0,3
+190,38507,2018-12-29,Matchweek 20,Watford,Newcastle United,2018/2019,1,1,62.7,37.3,5,2,12,8,1,1
+191,38498,2018-12-29,Matchweek 20,Brighton and Hove Albion,Everton,2018/2019,1,0,44.8,55.2,3,4,11,13,3,0
+192,38501,2018-12-29,Matchweek 20,Fulham,Huddersfield Town,2018/2019,1,0,43.5,56.5,5,5,14,9,3,0
+193,38502,2018-12-29,Matchweek 20,Leicester City,Cardiff City,2018/2019,0,1,62.2,37.8,7,3,16,12,0,3
+194,38506,2018-12-29,Matchweek 20,Tottenham Hotspur,Wolverhampton Wanderers,2018/2019,1,3,60.8,39.2,3,4,10,11,0,3
+195,38499,2018-12-30,Matchweek 20,Burnley,West Ham United,2018/2019,2,0,43.0,57.0,5,4,17,11,3,0
+196,38500,2018-12-30,Matchweek 20,Crystal Palace,Chelsea,2018/2019,0,1,34.2,65.8,0,4,4,12,0,3
+197,38503,2018-12-30,Matchweek 20,Liverpool,Arsenal,2018/2019,5,1,47.9,52.1,10,2,15,8,3,0
+198,38504,2018-12-30,Matchweek 20,Manchester United,AFC Bournemouth,2018/2019,4,1,64.9,35.1,8,3,11,7,3,0
+199,38505,2018-12-30,Matchweek 20,Southampton,Manchester City,2018/2019,1,3,23.4,76.6,4,6,5,14,0,3
+200,38512,2019-01-01,Matchweek 21,Everton,Leicester City,2018/2019,0,1,59.6,40.4,2,4,17,8,0,3
+201,38508,2019-01-01,Matchweek 21,Arsenal,Fulham,2018/2019,4,1,59.6,40.4,9,4,16,9,3,0
+202,38510,2019-01-02,Matchweek 21,Cardiff City,Tottenham Hotspur,2018/2019,0,3,26.9,73.1,3,4,5,13,0,3
+203,38511,2019-01-03,Matchweek 21,Chelsea,Southampton,2018/2019,0,0,71.6,28.4,6,2,17,6,1,1
+204,38516,2019-01-03,Matchweek 21,West Ham United,Brighton and Hove Albion,2018/2019,2,2,54.3,45.7,6,6,13,13,1,1
+205,38513,2019-01-03,Matchweek 21,Huddersfield Town,Burnley,2018/2019,1,2,42.9,57.1,2,8,9,16,0,3
+206,38515,2019-01-03,Matchweek 21,Newcastle United,Manchester United,2018/2019,0,2,34.9,65.1,3,7,14,16,0,3
+207,38509,2019-01-03,Matchweek 21,AFC Bournemouth,Watford,2018/2019,3,3,57.0,43.0,12,3,25,11,1,1
+208,38517,2019-01-03,Matchweek 21,Wolverhampton Wanderers,Crystal Palace,2018/2019,0,2,51.9,48.1,1,4,9,17,0,3
+209,38514,2019-01-04,Matchweek 21,Manchester City,Liverpool,2018/2019,2,1,49.6,50.4,4,5,9,7,3,0
+210,38522,2019-01-12,Matchweek 22,Crystal Palace,Watford,2018/2019,1,2,55.3,44.7,6,2,15,16,0,3
+211,38524,2019-01-12,Matchweek 22,Leicester City,Southampton,2018/2019,1,2,71.7,28.3,6,3,23,8,0,3
+212,38527,2019-01-12,Matchweek 22,West Ham United,Arsenal,2018/2019,1,0,41.4,58.6,3,2,11,11,3,0
+213,38520,2019-01-12,Matchweek 22,Cardiff City,Huddersfield Town,2018/2019,0,0,38.9,61.1,0,2,3,14,1,1
+214,38519,2019-01-12,Matchweek 22,Burnley,Fulham,2018/2019,2,1,41.8,58.2,1,4,11,12,3,0
+215,38518,2019-01-12,Matchweek 22,Brighton and Hove Albion,Liverpool,2018/2019,0,1,29.1,70.9,0,3,7,10,0,3
+216,38523,2019-01-13,Matchweek 22,Everton,AFC Bournemouth,2018/2019,2,0,50.9,49.1,3,7,15,16,3,0
+217,38526,2019-01-13,Matchweek 22,Tottenham Hotspur,Manchester United,2018/2019,0,1,61.2,38.8,11,8,21,13,0,3
+218,38521,2019-01-13,Matchweek 22,Chelsea,Newcastle United,2018/2019,2,1,65.9,34.1,6,2,10,9,3,0
+219,38525,2019-01-15,Matchweek 22,Manchester City,Wolverhampton Wanderers,2018/2019,3,0,76.1,23.9,9,0,24,3,3,0
+220,38536,2019-01-19,Matchweek 23,Watford,Burnley,2018/2019,0,0,54.8,45.2,4,3,9,12,1,1
+221,38535,2019-01-19,Matchweek 23,Southampton,Everton,2018/2019,2,1,39.4,60.6,4,2,11,7,3,0
+222,38534,2019-01-19,Matchweek 23,Newcastle United,Cardiff City,2018/2019,3,0,53.5,46.5,6,1,16,9,3,0
+223,38533,2019-01-19,Matchweek 23,Manchester United,Brighton and Hove Albion,2018/2019,2,1,56.0,44.0,5,3,20,7,3,0
+224,38537,2019-01-19,Matchweek 23,Wolverhampton Wanderers,Leicester City,2018/2019,4,3,45.6,54.4,7,6,12,16,3,0
+225,38529,2019-01-19,Matchweek 23,AFC Bournemouth,West Ham United,2018/2019,2,0,38.5,61.5,4,1,10,9,3,0
+226,38532,2019-01-19,Matchweek 23,Liverpool,Crystal Palace,2018/2019,4,3,70.6,29.4,9,3,19,9,3,0
+227,38531,2019-01-20,Matchweek 23,Huddersfield Town,Manchester City,2018/2019,0,3,32.4,67.6,2,4,5,12,0,3
+228,38530,2019-01-20,Matchweek 23,Fulham,Tottenham Hotspur,2018/2019,1,2,26.8,73.2,4,5,12,14,0,3
+229,38528,2019-01-20,Matchweek 23,Arsenal,Chelsea,2018/2019,2,0,35.7,64.3,5,1,13,13,3,0
+230,38545,2019-01-30,Matchweek 24,Newcastle United,Manchester City,2018/2019,2,1,23.8,76.2,2,4,7,12,3,0
+231,38542,2019-01-30,Matchweek 24,Manchester United,Burnley,2018/2019,2,2,74.4,25.6,9,4,28,6,1,1
+232,38541,2019-01-30,Matchweek 24,Huddersfield Town,Everton,2018/2019,0,1,58.4,41.6,2,5,10,10,0,3
+233,38543,2019-01-30,Matchweek 24,Wolverhampton Wanderers,West Ham United,2018/2019,3,0,54.7,45.3,9,0,20,4,3,0
+234,38538,2019-01-30,Matchweek 24,Arsenal,Cardiff City,2018/2019,2,1,70.9,29.1,4,2,15,19,3,0
+235,38540,2019-01-30,Matchweek 24,Fulham,Brighton and Hove Albion,2018/2019,4,2,61.9,38.1,8,6,24,15,3,0
+236,38539,2019-01-31,Matchweek 24,AFC Bournemouth,Chelsea,2018/2019,4,0,32.1,67.9,7,7,12,11,3,0
+237,38544,2019-01-31,Matchweek 24,Liverpool,Leicester City,2018/2019,1,1,72.1,27.9,3,2,10,5,1,1
+238,38546,2019-01-31,Matchweek 24,Southampton,Crystal Palace,2018/2019,1,1,58.8,41.2,4,3,13,15,1,1
+239,38547,2019-01-31,Matchweek 24,Tottenham Hotspur,Watford,2018/2019,2,1,68.5,31.5,3,1,17,9,3,0
+240,38552,2019-02-02,Matchweek 25,Crystal Palace,Fulham,2018/2019,2,0,37.3,62.7,6,0,17,8,3,0
+241,38548,2019-02-02,Matchweek 25,Brighton and Hove Albion,Watford,2018/2019,0,0,55.1,44.9,4,0,21,5,1,1
+242,38549,2019-02-02,Matchweek 25,Burnley,Southampton,2018/2019,1,1,54.2,45.8,6,4,15,10,1,1
+243,38556,2019-02-02,Matchweek 25,Tottenham Hotspur,Newcastle United,2018/2019,1,0,71.6,28.4,4,2,21,8,3,0
+244,38551,2019-02-02,Matchweek 25,Chelsea,Huddersfield Town,2018/2019,5,0,65.0,35.0,7,2,23,5,3,0
+245,38553,2019-02-02,Matchweek 25,Everton,Wolverhampton Wanderers,2018/2019,1,3,64.0,36.0,4,4,13,8,0,3
+246,38555,2019-02-03,Matchweek 25,Manchester City,Arsenal,2018/2019,3,1,58.8,41.2,12,2,19,4,3,0
+247,38550,2019-02-03,Matchweek 25,Cardiff City,AFC Bournemouth,2018/2019,2,0,26.9,73.1,5,2,12,9,3,0
+248,38554,2019-02-03,Matchweek 25,Leicester City,Manchester United,2018/2019,0,1,44.8,55.2,6,6,17,10,0,3
+249,38557,2019-02-05,Matchweek 25,West Ham United,Liverpool,2018/2019,1,1,26.7,73.3,2,6,13,11,1,1
+250,38573,2019-02-07,Matchweek 25,Everton,Manchester City,2018/2019,0,2,38.8,61.2,1,4,4,15,0,3
+251,38559,2019-02-09,Matchweek 26,Crystal Palace,West Ham United,2018/2019,1,1,57.2,42.8,5,4,25,6,1,1
+252,38560,2019-02-09,Matchweek 26,Fulham,Manchester United,2018/2019,0,3,51.2,48.8,3,7,15,15,0,3
+253,38561,2019-02-09,Matchweek 26,Huddersfield Town,Arsenal,2018/2019,1,2,54.6,45.4,7,4,16,9,0,3
+254,38562,2019-02-09,Matchweek 26,Liverpool,AFC Bournemouth,2018/2019,3,0,65.6,34.4,9,2,20,12,3,0
+255,38564,2019-02-09,Matchweek 26,Southampton,Cardiff City,2018/2019,1,2,66.7,33.3,7,3,14,6,0,3
+256,38566,2019-02-09,Matchweek 26,Watford,Everton,2018/2019,1,0,44.0,56.0,2,4,7,9,3,0
+257,38558,2019-02-10,Matchweek 26,Brighton and Hove Albion,Burnley,2018/2019,1,3,68.2,31.8,6,5,16,9,0,3
+258,38563,2019-02-10,Matchweek 26,Manchester City,Chelsea,2018/2019,6,0,55.8,44.2,9,4,15,12,3,0
+259,38565,2019-02-10,Matchweek 26,Tottenham Hotspur,Leicester City,2018/2019,3,1,53.1,46.9,5,9,12,20,3,0
+260,38567,2019-02-12,Matchweek 26,Wolverhampton Wanderers,Newcastle United,2018/2019,1,1,59.5,40.5,6,3,22,9,1,1
+261,38577,2019-02-23,Matchweek 27,West Ham United,Fulham,2018/2019,3,1,55.1,44.9,7,5,21,8,3,0
+262,38576,2019-02-23,Matchweek 27,Newcastle United,Huddersfield Town,2018/2019,2,0,54.3,45.7,12,0,29,3,3,0
+263,38570,2019-02-23,Matchweek 27,Burnley,Tottenham Hotspur,2018/2019,2,1,30.5,69.5,4,6,10,17,3,0
+264,38569,2019-02-23,Matchweek 27,AFC Bournemouth,Wolverhampton Wanderers,2018/2019,1,1,44.6,55.4,3,2,10,10,1,1
+265,38571,2019-02-23,Matchweek 27,Cardiff City,Watford,2018/2019,1,5,35.4,64.6,6,7,15,12,0,3
+266,38574,2019-02-24,Matchweek 27,Leicester City,Crystal Palace,2018/2019,1,4,65.4,34.6,5,5,27,7,0,3
+267,38575,2019-02-24,Matchweek 27,Manchester United,Liverpool,2018/2019,0,0,35.4,64.6,3,1,6,7,1,1
+268,38568,2019-02-24,Matchweek 27,Arsenal,Southampton,2018/2019,2,0,62.1,37.9,4,4,12,10,3,0
+269,38579,2019-02-27,Matchweek 28,Cardiff City,Everton,2018/2019,0,3,32.8,67.2,0,4,6,12,0,3
+270,38581,2019-02-27,Matchweek 28,Huddersfield Town,Wolverhampton Wanderers,2018/2019,1,0,49.9,50.1,3,0,15,7,3,0
+271,38582,2019-02-27,Matchweek 28,Leicester City,Brighton and Hove Albion,2018/2019,2,1,49.1,50.9,3,3,19,15,3,0
+272,38586,2019-02-27,Matchweek 28,Newcastle United,Burnley,2018/2019,2,0,54.3,45.7,3,2,13,12,3,0
+273,38585,2019-02-28,Matchweek 28,Manchester City,West Ham United,2018/2019,1,0,75.6,24.4,7,1,20,2,3,0
+274,38587,2019-02-28,Matchweek 28,Southampton,Fulham,2018/2019,2,0,40.9,59.1,4,4,14,14,3,0
+275,38578,2019-02-28,Matchweek 28,Arsenal,AFC Bournemouth,2018/2019,5,1,64.8,35.2,7,5,16,13,3,0
+276,38580,2019-02-28,Matchweek 28,Crystal Palace,Manchester United,2018/2019,1,3,45.5,54.5,2,4,17,13,0,3
+277,38583,2019-02-28,Matchweek 28,Chelsea,Tottenham Hotspur,2018/2019,2,0,46.5,53.5,1,0,11,9,3,0
+278,38584,2019-02-28,Matchweek 28,Liverpool,Watford,2018/2019,5,0,61.6,38.4,10,3,19,5,3,0
+279,38597,2019-03-02,Matchweek 29,Wolverhampton Wanderers,Cardiff City,2018/2019,2,0,56.3,43.7,6,4,13,12,3,0
+280,38594,2019-03-02,Matchweek 29,Tottenham Hotspur,Arsenal,2018/2019,1,1,60.2,39.8,3,4,11,9,1,1
+281,38590,2019-03-02,Matchweek 29,Burnley,Crystal Palace,2018/2019,1,3,56.3,43.7,4,4,18,10,0,3
+282,38593,2019-03-02,Matchweek 29,Manchester United,Southampton,2018/2019,3,2,64.2,35.8,6,3,16,9,3,0
+283,38589,2019-03-02,Matchweek 29,Brighton and Hove Albion,Huddersfield Town,2018/2019,1,0,52.7,47.3,4,4,14,6,3,0
+284,38588,2019-03-02,Matchweek 29,AFC Bournemouth,Manchester City,2018/2019,0,1,18.0,82.0,0,7,0,23,0,3
+285,38591,2019-03-03,Matchweek 29,Everton,Liverpool,2018/2019,0,0,42.2,57.8,3,3,7,10,1,1
+286,38592,2019-03-03,Matchweek 29,Fulham,Chelsea,2018/2019,1,2,36.0,64.0,5,7,12,20,0,3
+287,38595,2019-03-03,Matchweek 29,Watford,Leicester City,2018/2019,2,1,39.0,61.0,5,2,6,14,3,0
+288,38596,2019-03-03,Matchweek 29,West Ham United,Newcastle United,2018/2019,2,0,55.8,44.2,4,2,10,17,3,0
+289,38607,2019-03-09,Matchweek 30,Southampton,Tottenham Hotspur,2018/2019,2,1,36.8,63.2,4,5,12,16,3,0
+290,38606,2019-03-09,Matchweek 30,Newcastle United,Everton,2018/2019,3,2,45.5,54.5,7,3,19,7,3,0
+291,38602,2019-03-09,Matchweek 30,Huddersfield Town,AFC Bournemouth,2018/2019,0,2,56.5,43.5,1,5,8,8,0,3
+292,38601,2019-03-09,Matchweek 30,Crystal Palace,Brighton and Hove Albion,2018/2019,1,2,62.7,37.3,3,3,15,4,0,3
+293,38603,2019-03-09,Matchweek 30,Leicester City,Fulham,2018/2019,3,1,52.8,47.2,8,3,18,6,3,0
+294,38599,2019-03-09,Matchweek 30,Cardiff City,West Ham United,2018/2019,2,0,29.3,70.7,7,2,16,9,3,0
+295,38604,2019-03-10,Matchweek 30,Liverpool,Burnley,2018/2019,4,2,68.6,31.4,5,2,23,3,3,0
+296,38605,2019-03-10,Matchweek 30,Manchester City,Watford,2018/2019,3,1,71.1,28.9,9,1,19,2,3,0
+297,38598,2019-03-10,Matchweek 30,Arsenal,Manchester United,2018/2019,2,0,46.1,53.9,3,4,14,14,3,0
+298,38600,2019-03-10,Matchweek 30,Chelsea,Wolverhampton Wanderers,2018/2019,1,1,75.6,24.4,6,1,22,2,1,1
+299,38608,2019-03-16,Matchweek 31,AFC Bournemouth,Newcastle United,2018/2019,2,2,48.9,51.1,3,4,10,12,1,1
+300,38610,2019-03-16,Matchweek 31,Burnley,Leicester City,2018/2019,1,2,62.2,37.8,2,4,13,9,0,3
+301,38616,2019-03-16,Matchweek 31,West Ham United,Huddersfield Town,2018/2019,4,3,64.1,35.9,5,5,16,15,3,0
+302,38611,2019-03-17,Matchweek 31,Everton,Chelsea,2018/2019,2,0,32.7,67.3,8,5,15,17,3,0
+303,38612,2019-03-17,Matchweek 31,Fulham,Liverpool,2018/2019,1,2,37.2,62.8,2,6,7,16,0,3
+304,38619,2019-03-30,Matchweek 32,Brighton and Hove Albion,Southampton,2018/2019,0,1,60.2,39.8,1,2,14,8,0,3
+305,38624,2019-03-30,Matchweek 32,Leicester City,AFC Bournemouth,2018/2019,2,0,58.8,41.2,4,2,18,8,3,0
+306,38623,2019-03-30,Matchweek 32,Fulham,Manchester City,2018/2019,0,2,34.6,65.4,0,7,5,24,0,3
+307,38622,2019-03-30,Matchweek 32,Crystal Palace,Huddersfield Town,2018/2019,2,0,48.5,51.5,5,5,19,15,3,0
+308,38620,2019-03-30,Matchweek 32,Burnley,Wolverhampton Wanderers,2018/2019,2,0,37.2,62.8,1,1,6,8,3,0
+309,38626,2019-03-30,Matchweek 32,Manchester United,Watford,2018/2019,2,1,51.5,48.5,5,8,8,20,3,0
+310,38627,2019-03-31,Matchweek 32,West Ham United,Everton,2018/2019,0,2,49.3,50.7,1,9,3,17,0,3
+311,38625,2019-03-31,Matchweek 32,Liverpool,Tottenham Hotspur,2018/2019,2,1,48.7,51.3,3,2,14,11,3,0
+312,38621,2019-03-31,Matchweek 32,Cardiff City,Chelsea,2018/2019,1,2,28.9,71.1,3,3,8,21,0,3
+313,38618,2019-04-02,Matchweek 32,Arsenal,Newcastle United,2018/2019,2,0,70.6,29.4,4,1,7,3,3,0
+314,38636,2019-04-03,Matchweek 32,Watford,Fulham,2018/2019,4,1,46.6,53.4,7,7,15,17,3,0
+315,38637,2019-04-03,Matchweek 32,Wolverhampton Wanderers,Manchester United,2018/2019,2,1,49.8,50.2,2,4,9,18,3,0
+316,38572,2019-04-04,Matchweek 32,Chelsea,Brighton and Hove Albion,2018/2019,3,0,68.3,31.7,4,1,17,3,3,0
+317,38632,2019-04-04,Matchweek 32,Manchester City,Cardiff City,2018/2019,2,0,78.8,21.2,11,1,27,4,3,0
+318,38614,2019-04-04,Matchweek 32,Tottenham Hotspur,Crystal Palace,2018/2019,2,0,65.3,34.7,10,1,26,5,3,0
+319,38628,2019-04-06,Matchweek 33,AFC Bournemouth,Burnley,2018/2019,1,3,59.9,40.1,2,3,10,10,0,3
+320,38631,2019-04-06,Matchweek 33,Huddersfield Town,Leicester City,2018/2019,1,4,44.8,55.2,4,9,10,18,0,3
+321,38633,2019-04-06,Matchweek 33,Newcastle United,Crystal Palace,2018/2019,0,1,53.8,46.2,5,1,18,3,0,3
+322,38634,2019-04-06,Matchweek 33,Southampton,Liverpool,2018/2019,1,3,33.0,67.0,1,5,11,17,0,3
+323,38630,2019-04-07,Matchweek 33,Everton,Arsenal,2018/2019,1,0,42.9,57.1,6,2,23,7,3,0
+324,38629,2019-04-09,Matchweek 33,Chelsea,West Ham United,2018/2019,2,0,54.0,46.0,7,2,16,9,3,0
+325,38645,2019-04-13,Matchweek 34,Southampton,Wolverhampton Wanderers,2018/2019,3,1,30.7,69.3,6,2,12,17,3,0
+326,38644,2019-04-13,Matchweek 34,Manchester United,West Ham United,2018/2019,2,1,42.3,57.7,4,4,14,18,3,0
+327,38646,2019-04-13,Matchweek 34,Tottenham Hotspur,Huddersfield Town,2018/2019,4,0,70.0,30.0,5,1,22,7,3,0
+328,38642,2019-04-13,Matchweek 34,Leicester City,Newcastle United,2018/2019,0,1,71.7,28.3,5,5,12,11,0,3
+329,38641,2019-04-13,Matchweek 34,Fulham,Everton,2018/2019,2,0,40.6,59.4,5,1,12,9,3,0
+330,38639,2019-04-13,Matchweek 34,Burnley,Cardiff City,2018/2019,2,0,46.0,54.0,7,2,14,14,3,0
+331,38638,2019-04-13,Matchweek 34,Brighton and Hove Albion,AFC Bournemouth,2018/2019,0,5,50.1,49.9,1,7,8,14,0,3
+332,38640,2019-04-14,Matchweek 34,Crystal Palace,Manchester City,2018/2019,1,3,27.6,72.4,3,6,7,20,0,3
+333,38643,2019-04-14,Matchweek 34,Liverpool,Chelsea,2018/2019,2,0,61.8,38.2,7,3,15,6,3,0
+334,38647,2019-04-16,Matchweek 34,Watford,Arsenal,2018/2019,0,1,34.1,65.9,3,5,11,19,0,3
+335,38609,2019-04-17,Matchweek 34,Brighton and Hove Albion,Cardiff City,2018/2019,0,2,63.9,36.1,2,3,14,10,0,3
+336,38653,2019-04-20,Matchweek 35,Huddersfield Town,Watford,2018/2019,1,2,45.7,54.3,3,6,13,11,0,3
+337,38649,2019-04-20,Matchweek 35,AFC Bournemouth,Fulham,2018/2019,0,1,49.0,51.0,5,5,15,17,0,3
+338,38654,2019-04-20,Matchweek 35,Manchester City,Tottenham Hotspur,2018/2019,1,0,60.7,39.3,4,4,15,10,3,0
+339,38655,2019-04-20,Matchweek 35,Newcastle United,Southampton,2018/2019,3,1,43.4,56.6,6,3,15,15,3,0
+340,38656,2019-04-20,Matchweek 35,West Ham United,Leicester City,2018/2019,2,2,49.3,50.7,3,5,11,11,1,1
+341,38657,2019-04-20,Matchweek 35,Wolverhampton Wanderers,Brighton and Hove Albion,2018/2019,0,0,68.2,31.8,5,0,23,5,1,1
+342,38648,2019-04-21,Matchweek 35,Arsenal,Crystal Palace,2018/2019,2,3,72.6,27.4,5,7,12,16,0,3
+343,38652,2019-04-21,Matchweek 35,Everton,Manchester United,2018/2019,4,0,48.3,51.7,8,1,15,7,3,0
+344,38650,2019-04-21,Matchweek 35,Cardiff City,Liverpool,2018/2019,0,2,23.9,76.1,2,6,7,17,0,3
+345,38651,2019-04-23,Matchweek 35,Chelsea,Burnley,2018/2019,2,2,76.4,23.6,9,3,22,6,1,1
+346,38635,2019-04-24,Matchweek 35,Tottenham Hotspur,Brighton and Hove Albion,2018/2019,1,0,78.5,21.5,5,1,29,6,3,0
+347,38615,2019-04-24,Matchweek 35,Watford,Southampton,2018/2019,1,1,62.2,37.8,4,4,15,8,1,1
+348,38617,2019-04-25,Matchweek 35,Wolverhampton Wanderers,Arsenal,2018/2019,3,1,29.6,70.4,3,1,11,11,3,0
+349,38613,2019-04-25,Matchweek 35,Manchester United,Manchester City,2018/2019,0,2,36.8,63.2,1,5,12,8,0,3
+350,38665,2019-04-27,Matchweek 36,Southampton,AFC Bournemouth,2018/2019,3,3,44.4,55.6,7,5,22,9,1,1
+351,38667,2019-04-27,Matchweek 36,Watford,Wolverhampton Wanderers,2018/2019,1,2,56.5,43.5,1,4,10,11,0,3
+352,38666,2019-04-27,Matchweek 36,Tottenham Hotspur,West Ham United,2018/2019,0,1,63.0,37.0,4,7,14,16,0,3
+353,38663,2019-04-27,Matchweek 36,Liverpool,Huddersfield Town,2018/2019,5,0,70.3,29.7,7,1,21,5,3,0
+354,38661,2019-04-27,Matchweek 36,Fulham,Cardiff City,2018/2019,1,0,73.0,27.0,2,8,8,13,3,0
+355,38660,2019-04-27,Matchweek 36,Crystal Palace,Everton,2018/2019,0,0,36.1,63.9,0,3,8,22,1,1
+356,38658,2019-04-27,Matchweek 36,Brighton and Hove Albion,Newcastle United,2018/2019,1,1,49.8,50.2,2,1,9,9,1,1
+357,38664,2019-04-28,Matchweek 36,Manchester United,Chelsea,2018/2019,1,1,51.7,48.3,5,3,7,16,1,1
+358,38659,2019-04-28,Matchweek 36,Burnley,Manchester City,2018/2019,0,1,30.1,69.9,0,7,2,25,0,3
+359,38662,2019-04-28,Matchweek 36,Leicester City,Arsenal,2018/2019,3,0,67.2,32.8,12,1,24,6,3,0
+360,38676,2019-05-04,Matchweek 37,West Ham United,Southampton,2018/2019,3,0,56.3,43.7,6,1,17,11,3,0
+361,38677,2019-05-04,Matchweek 37,Wolverhampton Wanderers,Fulham,2018/2019,1,0,39.2,60.8,6,2,19,6,3,0
+362,38672,2019-05-04,Matchweek 37,Everton,Burnley,2018/2019,2,0,60.1,39.9,6,1,20,5,3,0
+363,38669,2019-05-04,Matchweek 37,AFC Bournemouth,Tottenham Hotspur,2018/2019,1,0,53.6,46.4,6,5,20,11,3,0
+364,38670,2019-05-04,Matchweek 37,Cardiff City,Crystal Palace,2018/2019,2,3,39.3,60.7,8,7,18,21,0,3
+365,38671,2019-05-05,Matchweek 37,Chelsea,Watford,2018/2019,3,0,58.4,41.6,9,3,19,16,3,0
+366,38673,2019-05-05,Matchweek 37,Huddersfield Town,Manchester United,2018/2019,1,1,35.8,64.2,3,7,7,23,1,1
+367,38675,2019-05-05,Matchweek 37,Newcastle United,Liverpool,2018/2019,2,3,30.9,69.1,7,4,14,11,0,3
+368,38668,2019-05-05,Matchweek 37,Arsenal,Brighton and Hove Albion,2018/2019,1,1,70.5,29.5,8,5,20,11,1,1
+369,38674,2019-05-07,Matchweek 37,Manchester City,Leicester City,2018/2019,1,0,61.0,39.0,5,2,19,7,3,0
+370,38684,2019-05-12,Matchweek 38,Manchester United,Cardiff City,2018/2019,0,2,73.6,26.4,10,4,26,13,0,3
+371,38687,2019-05-12,Matchweek 38,Watford,West Ham United,2018/2019,1,4,48.3,51.7,8,9,17,16,0,3
+372,38686,2019-05-12,Matchweek 38,Tottenham Hotspur,Everton,2018/2019,2,2,55.0,45.0,3,9,11,16,1,1
+373,38685,2019-05-12,Matchweek 38,Southampton,Huddersfield Town,2018/2019,1,1,53.7,46.3,3,3,10,10,1,1
+374,38683,2019-05-12,Matchweek 38,Liverpool,Wolverhampton Wanderers,2018/2019,2,0,59.0,41.0,5,2,13,7,3,0
+375,38679,2019-05-12,Matchweek 38,Burnley,Arsenal,2018/2019,1,3,39.7,60.3,5,6,14,17,0,3
+376,38681,2019-05-12,Matchweek 38,Fulham,Newcastle United,2018/2019,0,4,68.1,31.9,2,6,16,13,0,3
+377,38680,2019-05-12,Matchweek 38,Crystal Palace,AFC Bournemouth,2018/2019,5,3,45.0,55.0,8,8,17,16,3,0
+378,38678,2019-05-12,Matchweek 38,Brighton and Hove Albion,Manchester City,2018/2019,1,4,23.7,76.3,2,9,6,20,0,3
+379,38682,2019-05-12,Matchweek 38,Leicester City,Chelsea,2018/2019,0,0,46.9,53.1,3,4,9,14,1,1
+380,46610,2019-08-10,Matchweek 1,Tottenham Hotspur,Aston Villa,2019/2020,3,1,70.1,29.9,7,4,31,7,3,0
+381,46608,2019-08-10,Matchweek 1,Crystal Palace,Everton,2019/2020,0,0,35.4,64.6,2,3,6,10,1,1
+382,46612,2019-08-10,Matchweek 1,West Ham United,Manchester City,2019/2020,0,5,42.9,57.1,3,9,5,14,0,3
+383,46606,2019-08-10,Matchweek 1,AFC Bournemouth,Sheffield United,2019/2020,1,1,52.9,47.1,3,3,13,8,1,1
+384,46605,2019-08-10,Matchweek 1,Liverpool,Norwich City,2019/2020,4,1,57.9,42.1,7,5,15,12,3,0
+385,46611,2019-08-10,Matchweek 1,Watford,Brighton and Hove Albion,2019/2020,0,3,48.2,51.8,3,3,11,5,0,3
+386,46607,2019-08-10,Matchweek 1,Burnley,Southampton,2019/2020,3,0,46.5,53.5,4,3,10,11,3,0
+387,46613,2019-08-11,Matchweek 1,Manchester United,Chelsea,2019/2020,4,0,46.2,53.8,5,7,11,18,3,0
+388,46614,2019-08-11,Matchweek 1,Newcastle United,Arsenal,2019/2020,0,1,38.1,61.9,2,2,9,8,0,3
+389,46609,2019-08-11,Matchweek 1,Leicester City,Wolverhampton Wanderers,2019/2020,0,0,70.0,30.0,1,2,16,8,1,1
+390,46615,2019-08-17,Matchweek 2,Arsenal,Burnley,2019/2020,2,1,67.5,32.5,9,5,15,18,3,0
+391,46616,2019-08-17,Matchweek 2,Aston Villa,AFC Bournemouth,2019/2020,1,2,62.6,37.4,7,4,21,12,0,3
+392,46617,2019-08-17,Matchweek 2,Brighton and Hove Albion,West Ham United,2019/2020,1,1,57.3,42.7,4,3,16,8,1,1
+393,46619,2019-08-17,Matchweek 2,Everton,Watford,2019/2020,1,0,44.1,55.9,2,2,12,8,3,0
+394,46620,2019-08-17,Matchweek 2,Manchester City,Tottenham Hotspur,2019/2020,2,2,55.4,44.6,10,2,30,3,1,1
+395,46621,2019-08-17,Matchweek 2,Norwich City,Newcastle United,2019/2020,3,1,63.3,36.7,8,4,15,12,3,0
+396,46623,2019-08-17,Matchweek 2,Southampton,Liverpool,2019/2020,1,2,36.2,63.8,3,6,14,15,0,3
+397,46618,2019-08-18,Matchweek 2,Chelsea,Leicester City,2019/2020,1,1,50.2,49.8,5,3,14,12,1,1
+398,46622,2019-08-18,Matchweek 2,Sheffield United,Crystal Palace,2019/2020,1,0,42.5,57.5,3,4,15,6,3,0
+399,46624,2019-08-20,Matchweek 2,Wolverhampton Wanderers,Manchester United,2019/2020,1,1,34.4,65.6,2,2,6,9,1,1
+400,46633,2019-08-24,Matchweek 3,Watford,West Ham United,2019/2020,1,3,54.9,45.1,3,10,23,16,0,3
+401,46631,2019-08-24,Matchweek 3,Sheffield United,Leicester City,2019/2020,1,2,49.1,50.9,2,2,7,10,0,3
+402,46630,2019-08-24,Matchweek 3,Norwich City,Chelsea,2019/2020,2,3,46.6,53.4,5,8,6,23,0,3
+403,46629,2019-08-24,Matchweek 3,Manchester United,Crystal Palace,2019/2020,1,2,71.3,28.7,3,3,22,5,0,3
+404,46627,2019-08-24,Matchweek 3,Brighton and Hove Albion,Southampton,2019/2020,0,2,50.7,49.3,3,4,12,12,0,3
+405,46625,2019-08-24,Matchweek 3,Aston Villa,Everton,2019/2020,2,0,35.2,64.8,3,1,7,12,3,0
+406,46628,2019-08-24,Matchweek 3,Liverpool,Arsenal,2019/2020,3,1,52.0,48.0,5,3,25,9,3,0
+407,46626,2019-08-25,Matchweek 3,AFC Bournemouth,Manchester City,2019/2020,1,3,26.2,73.8,7,5,10,18,0,3
+408,46632,2019-08-25,Matchweek 3,Tottenham Hotspur,Newcastle United,2019/2020,0,1,80.2,19.8,2,3,17,8,0,3
+409,46634,2019-08-25,Matchweek 3,Wolverhampton Wanderers,Burnley,2019/2020,1,1,65.1,34.9,2,4,17,13,1,1
+410,46644,2019-08-31,Matchweek 4,West Ham United,Norwich City,2019/2020,2,0,48.6,51.4,8,3,18,8,3,0
+411,46643,2019-08-31,Matchweek 4,Southampton,Manchester United,2019/2020,1,1,41.4,58.6,2,8,10,21,1,1
+412,46642,2019-08-31,Matchweek 4,Newcastle United,Watford,2019/2020,1,1,48.8,51.2,5,3,13,13,1,1
+413,46641,2019-08-31,Matchweek 4,Manchester City,Brighton and Hove Albion,2019/2020,4,0,53.5,46.5,6,2,15,6,3,0
+414,46640,2019-08-31,Matchweek 4,Leicester City,AFC Bournemouth,2019/2020,3,1,55.0,45.0,6,2,15,8,3,0
+415,46637,2019-08-31,Matchweek 4,Chelsea,Sheffield United,2019/2020,2,2,62.3,37.7,5,2,13,8,1,1
+416,46638,2019-08-31,Matchweek 4,Crystal Palace,Aston Villa,2019/2020,1,0,52.8,47.2,5,2,22,10,3,0
+417,46636,2019-08-31,Matchweek 4,Burnley,Liverpool,2019/2020,0,3,36.2,63.8,2,7,7,15,0,3
+418,46635,2019-09-01,Matchweek 4,Arsenal,Tottenham Hotspur,2019/2020,2,2,54.8,45.2,8,9,26,13,1,1
+419,46639,2019-09-01,Matchweek 4,Everton,Wolverhampton Wanderers,2019/2020,3,2,58.7,41.3,6,5,15,8,3,0
+420,46654,2019-09-14,Matchweek 5,Wolverhampton Wanderers,Chelsea,2019/2020,2,5,45.3,54.7,4,6,11,15,0,3
+421,46650,2019-09-14,Matchweek 5,Norwich City,Manchester City,2019/2020,3,2,31.4,68.6,3,8,7,25,3,0
+422,46652,2019-09-14,Matchweek 5,Tottenham Hotspur,Crystal Palace,2019/2020,4,0,64.1,35.9,5,6,13,11,3,0
+423,46649,2019-09-14,Matchweek 5,Manchester United,Leicester City,2019/2020,1,0,41.7,58.3,5,3,10,9,3,0
+424,46651,2019-09-14,Matchweek 5,Sheffield United,Southampton,2019/2020,0,1,48.2,51.8,4,7,17,11,0,3
+425,46647,2019-09-14,Matchweek 5,Brighton and Hove Albion,Burnley,2019/2020,1,1,62.5,37.5,5,1,14,7,1,1
+426,46648,2019-09-14,Matchweek 5,Liverpool,Newcastle United,2019/2020,3,1,75.3,24.7,9,1,21,8,3,0
+427,46646,2019-09-15,Matchweek 5,AFC Bournemouth,Everton,2019/2020,3,1,40.5,59.5,6,5,13,14,3,0
+428,46653,2019-09-15,Matchweek 5,Watford,Arsenal,2019/2020,2,2,52.4,47.6,10,4,31,7,1,1
+429,46645,2019-09-17,Matchweek 5,Aston Villa,West Ham United,2019/2020,0,0,46.6,53.4,5,1,10,13,1,1
+430,46662,2019-09-21,Matchweek 6,Newcastle United,Brighton and Hove Albion,2019/2020,0,0,28.7,71.3,4,3,11,16,1,1
+431,46661,2019-09-21,Matchweek 6,Manchester City,Watford,2019/2020,8,0,68.7,31.3,11,4,28,5,3,0
+432,46660,2019-09-21,Matchweek 6,Leicester City,Tottenham Hotspur,2019/2020,2,1,44.2,55.8,7,4,16,11,3,0
+433,46659,2019-09-21,Matchweek 6,Everton,Sheffield United,2019/2020,0,2,69.8,30.2,3,1,16,2,0,3
+434,46663,2019-09-21,Matchweek 6,Southampton,AFC Bournemouth,2019/2020,1,3,64.8,35.2,6,3,25,6,0,3
+435,46656,2019-09-21,Matchweek 6,Burnley,Norwich City,2019/2020,2,0,41.4,58.6,6,2,13,11,3,0
+436,46657,2019-09-22,Matchweek 6,Chelsea,Liverpool,2019/2020,1,2,55.0,45.0,2,3,13,6,0,3
+437,46655,2019-09-22,Matchweek 6,Arsenal,Aston Villa,2019/2020,3,2,58.1,41.9,6,9,21,14,3,0
+438,46664,2019-09-22,Matchweek 6,West Ham United,Manchester United,2019/2020,2,0,46.5,53.5,6,3,8,9,3,0
+439,46658,2019-09-22,Matchweek 6,Crystal Palace,Wolverhampton Wanderers,2019/2020,1,1,49.9,50.1,4,4,13,13,1,1
+440,46674,2019-09-28,Matchweek 7,Wolverhampton Wanderers,Watford,2019/2020,2,0,39.1,60.9,2,5,6,14,3,0
+441,46673,2019-09-28,Matchweek 7,Tottenham Hotspur,Southampton,2019/2020,2,1,41.4,58.6,4,6,9,14,3,0
+442,46672,2019-09-28,Matchweek 7,Sheffield United,Liverpool,2019/2020,0,1,29.6,70.4,2,4,12,16,0,3
+443,46669,2019-09-28,Matchweek 7,Everton,Manchester City,2019/2020,1,3,37.2,62.8,8,8,12,19,0,3
+444,46668,2019-09-28,Matchweek 7,Crystal Palace,Norwich City,2019/2020,2,0,44.6,55.4,3,3,15,10,3,0
+445,46666,2019-09-28,Matchweek 7,AFC Bournemouth,West Ham United,2019/2020,2,2,49.1,50.9,5,6,13,17,1,1
+446,46665,2019-09-28,Matchweek 7,Aston Villa,Burnley,2019/2020,2,2,60.2,39.8,3,3,16,10,1,1
+447,46667,2019-09-28,Matchweek 7,Chelsea,Brighton and Hove Albion,2019/2020,2,0,52.6,47.4,10,1,24,8,3,0
+448,46670,2019-09-29,Matchweek 7,Leicester City,Newcastle United,2019/2020,5,0,68.9,31.1,5,0,13,3,3,0
+449,46671,2019-10-01,Matchweek 7,Manchester United,Arsenal,2019/2020,1,1,54.8,45.2,4,5,16,10,1,1
+450,46681,2019-10-05,Matchweek 8,Norwich City,Aston Villa,2019/2020,1,5,57.6,42.4,5,12,21,22,0,3
+451,46684,2019-10-05,Matchweek 8,West Ham United,Crystal Palace,2019/2020,1,2,51.7,48.3,4,4,9,7,0,3
+452,46678,2019-10-05,Matchweek 8,Liverpool,Leicester City,2019/2020,2,1,50.7,49.3,8,1,18,2,3,0
+453,46683,2019-10-05,Matchweek 8,Watford,Sheffield United,2019/2020,0,0,39.5,60.5,2,3,8,9,1,1
+454,46676,2019-10-05,Matchweek 8,Brighton and Hove Albion,Tottenham Hotspur,2019/2020,3,0,47.7,52.3,6,3,17,8,3,0
+455,46677,2019-10-05,Matchweek 8,Burnley,Everton,2019/2020,1,0,40.8,59.2,3,2,9,11,3,0
+456,46679,2019-10-06,Matchweek 8,Manchester City,Wolverhampton Wanderers,2019/2020,0,2,76.0,24.0,2,2,18,7,0,3
+457,46680,2019-10-06,Matchweek 8,Newcastle United,Manchester United,2019/2020,1,0,31.9,68.1,2,3,12,12,3,0
+458,46682,2019-10-06,Matchweek 8,Southampton,Chelsea,2019/2020,1,4,43.3,56.7,3,7,10,13,0,3
+459,46675,2019-10-06,Matchweek 8,Arsenal,AFC Bournemouth,2019/2020,1,0,52.5,47.5,2,2,12,10,3,0
+460,46694,2019-10-19,Matchweek 9,Wolverhampton Wanderers,Southampton,2019/2020,1,1,57.0,43.0,1,5,4,14,1,1
+461,46693,2019-10-19,Matchweek 9,Tottenham Hotspur,Watford,2019/2020,1,1,69.4,30.6,2,2,12,7,1,1
+462,46690,2019-10-19,Matchweek 9,Leicester City,Burnley,2019/2020,2,1,64.5,35.5,3,4,19,13,3,0
+463,46689,2019-10-19,Matchweek 9,Everton,West Ham United,2019/2020,2,0,51.3,48.7,10,4,19,8,3,0
+464,46687,2019-10-19,Matchweek 9,Chelsea,Newcastle United,2019/2020,1,0,71.1,28.9,8,0,16,5,3,0
+465,46686,2019-10-19,Matchweek 9,AFC Bournemouth,Norwich City,2019/2020,0,0,47.7,52.3,2,1,11,10,1,1
+466,46685,2019-10-19,Matchweek 9,Aston Villa,Brighton and Hove Albion,2019/2020,2,1,48.9,51.1,8,5,24,20,3,0
+467,46688,2019-10-19,Matchweek 9,Crystal Palace,Manchester City,2019/2020,0,2,28.7,71.3,2,10,7,21,0,3
+468,46691,2019-10-20,Matchweek 9,Manchester United,Liverpool,2019/2020,1,1,32.0,68.0,2,4,7,10,1,1
+469,46692,2019-10-22,Matchweek 9,Sheffield United,Arsenal,2019/2020,1,0,31.4,68.6,2,3,8,9,3,0
+470,46699,2019-10-26,Matchweek 10,Manchester City,Aston Villa,2019/2020,3,0,63.1,36.9,10,5,26,11,3,0
+471,46703,2019-10-26,Matchweek 10,Watford,AFC Bournemouth,2019/2020,0,0,40.2,59.8,3,5,7,15,1,1
+472,46696,2019-10-26,Matchweek 10,Brighton and Hove Albion,Everton,2019/2020,3,2,55.5,44.5,4,6,8,10,3,0
+473,46697,2019-10-26,Matchweek 10,Burnley,Chelsea,2019/2020,2,4,36.7,63.3,5,7,13,16,0,3
+474,46704,2019-10-26,Matchweek 10,West Ham United,Sheffield United,2019/2020,1,1,60.8,39.2,4,4,12,10,1,1
+475,46702,2019-10-26,Matchweek 10,Southampton,Leicester City,2019/2020,0,9,27.4,72.6,3,15,6,25,0,3
+476,46698,2019-10-27,Matchweek 10,Liverpool,Tottenham Hotspur,2019/2020,2,1,68.0,32.0,13,4,21,11,3,0
+477,46700,2019-10-27,Matchweek 10,Newcastle United,Wolverhampton Wanderers,2019/2020,1,1,43.1,56.9,2,5,13,13,1,1
+478,46695,2019-10-27,Matchweek 10,Arsenal,Crystal Palace,2019/2020,2,2,56.2,43.8,6,4,15,10,1,1
+479,46701,2019-10-27,Matchweek 10,Norwich City,Manchester United,2019/2020,1,3,46.1,53.9,3,11,10,21,0,3
+480,46705,2019-11-02,Matchweek 11,Arsenal,Wolverhampton Wanderers,2019/2020,1,1,57.5,42.5,4,8,10,24,1,1
+481,46706,2019-11-02,Matchweek 11,Aston Villa,Liverpool,2019/2020,1,2,26.3,73.7,2,6,4,25,0,3
+482,46707,2019-11-02,Matchweek 11,AFC Bournemouth,Manchester United,2019/2020,1,0,42.6,57.4,6,4,13,15,3,0
+483,46708,2019-11-02,Matchweek 11,Brighton and Hove Albion,Norwich City,2019/2020,2,0,58.5,41.5,5,0,21,7,3,0
+484,46711,2019-11-02,Matchweek 11,Manchester City,Southampton,2019/2020,2,1,75.3,24.7,4,3,26,3,3,0
+485,46712,2019-11-02,Matchweek 11,Sheffield United,Burnley,2019/2020,3,0,45.6,54.4,6,0,13,6,3,0
+486,46714,2019-11-02,Matchweek 11,West Ham United,Newcastle United,2019/2020,2,3,69.5,30.5,6,9,16,12,0,3
+487,46709,2019-11-03,Matchweek 11,Crystal Palace,Leicester City,2019/2020,0,2,44.2,55.8,3,5,12,14,0,3
+488,46710,2019-11-03,Matchweek 11,Everton,Tottenham Hotspur,2019/2020,1,1,47.3,52.7,3,2,7,5,1,1
+489,46713,2019-11-03,Matchweek 11,Watford,Chelsea,2019/2020,1,2,32.8,67.2,3,10,12,16,0,3
+490,46721,2019-11-09,Matchweek 12,Norwich City,Watford,2019/2020,0,2,65.8,34.2,5,2,17,12,0,3
+491,46723,2019-11-09,Matchweek 12,Tottenham Hotspur,Sheffield United,2019/2020,1,1,61.1,38.9,5,4,17,14,1,1
+492,46720,2019-11-09,Matchweek 12,Newcastle United,AFC Bournemouth,2019/2020,2,1,33.9,66.1,9,4,21,16,3,0
+493,46722,2019-11-09,Matchweek 12,Southampton,Everton,2019/2020,1,2,47.3,52.7,3,5,4,24,0,3
+494,46716,2019-11-09,Matchweek 12,Chelsea,Crystal Palace,2019/2020,2,0,60.6,39.4,5,1,23,3,3,0
+495,46715,2019-11-09,Matchweek 12,Burnley,West Ham United,2019/2020,3,0,40.0,60.0,12,4,14,7,3,0
+496,46719,2019-11-10,Matchweek 12,Manchester United,Brighton and Hove Albion,2019/2020,3,1,42.7,57.3,11,2,21,6,3,0
+497,46717,2019-11-10,Matchweek 12,Leicester City,Arsenal,2019/2020,2,0,50.2,49.8,7,1,19,8,3,0
+498,46718,2019-11-10,Matchweek 12,Liverpool,Manchester City,2019/2020,3,1,45.0,55.0,5,3,12,18,3,0
+499,46724,2019-11-10,Matchweek 12,Wolverhampton Wanderers,Aston Villa,2019/2020,2,1,50.1,49.9,5,4,17,13,3,0
+500,46734,2019-11-23,Matchweek 13,West Ham United,Tottenham Hotspur,2019/2020,2,3,47.1,52.9,4,6,11,15,0,3
+501,46733,2019-11-23,Matchweek 13,Watford,Burnley,2019/2020,0,3,61.9,38.1,4,5,15,11,0,3
+502,46729,2019-11-23,Matchweek 13,Crystal Palace,Liverpool,2019/2020,1,2,40.0,60.0,6,4,16,12,0,3
+503,46730,2019-11-23,Matchweek 13,Everton,Norwich City,2019/2020,0,2,57.3,42.7,7,5,18,13,0,3
+504,46727,2019-11-23,Matchweek 13,AFC Bournemouth,Wolverhampton Wanderers,2019/2020,1,2,46.6,53.4,2,8,9,18,0,3
+505,46725,2019-11-23,Matchweek 13,Arsenal,Southampton,2019/2020,2,2,61.0,39.0,5,6,12,21,1,1
+506,46728,2019-11-23,Matchweek 13,Brighton and Hove Albion,Leicester City,2019/2020,0,2,52.6,47.4,0,9,7,19,0,3
+507,46731,2019-11-24,Matchweek 13,Manchester City,Chelsea,2019/2020,2,1,46.7,53.3,4,2,15,11,3,0
+508,46732,2019-11-24,Matchweek 13,Sheffield United,Manchester United,2019/2020,3,3,40.6,59.4,8,5,12,11,1,1
+509,46726,2019-11-26,Matchweek 13,Aston Villa,Newcastle United,2019/2020,2,0,62.0,38.0,8,5,17,11,3,0
+510,46740,2019-11-30,Matchweek 14,Newcastle United,Manchester City,2019/2020,2,2,23.6,76.4,3,9,6,24,1,1
+511,46735,2019-11-30,Matchweek 14,Burnley,Crystal Palace,2019/2020,0,2,43.5,56.5,4,2,15,7,0,3
+512,46736,2019-11-30,Matchweek 14,Chelsea,West Ham United,2019/2020,0,1,65.7,34.3,6,4,19,5,0,3
+513,46738,2019-11-30,Matchweek 14,Liverpool,Brighton and Hove Albion,2019/2020,2,1,44.8,55.2,7,5,15,12,3,0
+514,46743,2019-11-30,Matchweek 14,Tottenham Hotspur,AFC Bournemouth,2019/2020,3,2,52.6,47.4,5,6,14,20,3,0
+515,46744,2019-12-01,Matchweek 14,Wolverhampton Wanderers,Sheffield United,2019/2020,1,1,59.4,40.6,3,4,13,10,1,1
+516,46742,2019-12-01,Matchweek 14,Southampton,Watford,2019/2020,2,1,62.8,37.2,6,3,11,6,3,0
+517,46739,2019-12-01,Matchweek 14,Manchester United,Aston Villa,2019/2020,2,2,62.3,37.7,6,3,16,9,1,1
+518,46737,2019-12-01,Matchweek 14,Leicester City,Everton,2019/2020,2,1,69.3,30.7,6,3,16,11,3,0
+519,46741,2019-12-01,Matchweek 14,Norwich City,Arsenal,2019/2020,2,2,39.9,60.1,8,7,15,16,1,1
+520,46746,2019-12-04,Matchweek 15,Burnley,Manchester City,2019/2020,1,4,24.5,75.5,2,8,4,17,0,3
+521,46752,2019-12-04,Matchweek 15,Crystal Palace,AFC Bournemouth,2019/2020,1,0,30.8,69.2,2,3,7,6,3,0
+522,46751,2019-12-05,Matchweek 15,Chelsea,Aston Villa,2019/2020,2,1,64.5,35.5,9,3,25,9,3,0
+523,46747,2019-12-05,Matchweek 15,Leicester City,Watford,2019/2020,2,0,63.0,37.0,6,1,12,4,3,0
+524,46748,2019-12-05,Matchweek 15,Manchester United,Tottenham Hotspur,2019/2020,2,1,46.6,53.4,7,5,12,8,3,0
+525,46750,2019-12-05,Matchweek 15,Wolverhampton Wanderers,West Ham United,2019/2020,2,0,49.4,50.6,7,3,13,6,3,0
+526,46753,2019-12-05,Matchweek 15,Liverpool,Everton,2019/2020,5,2,58.5,41.5,5,4,11,12,3,0
+527,46754,2019-12-05,Matchweek 15,Southampton,Norwich City,2019/2020,2,1,40.1,59.9,5,3,14,10,3,0
+528,46745,2019-12-06,Matchweek 15,Arsenal,Brighton and Hove Albion,2019/2020,1,2,49.2,50.8,5,9,12,20,0,3
+529,46749,2019-12-06,Matchweek 15,Sheffield United,Newcastle United,2019/2020,0,2,73.3,26.7,6,4,13,6,0,3
+530,46763,2019-12-07,Matchweek 16,Watford,Crystal Palace,2019/2020,0,0,50.2,49.8,3,0,13,3,1,1
+531,46758,2019-12-07,Matchweek 16,Everton,Chelsea,2019/2020,3,1,30.0,70.0,7,4,13,15,3,0
+532,46762,2019-12-07,Matchweek 16,Tottenham Hotspur,Burnley,2019/2020,5,0,49.0,51.0,7,1,13,7,3,0
+533,46756,2019-12-07,Matchweek 16,AFC Bournemouth,Liverpool,2019/2020,0,3,26.2,73.8,0,9,3,21,0,3
+534,46761,2019-12-08,Matchweek 16,Norwich City,Sheffield United,2019/2020,1,2,58.2,41.8,4,3,14,9,0,3
+535,46757,2019-12-08,Matchweek 16,Brighton and Hove Albion,Wolverhampton Wanderers,2019/2020,2,2,62.0,38.0,5,6,13,13,1,1
+536,46759,2019-12-08,Matchweek 16,Manchester City,Manchester United,2019/2020,1,2,71.9,28.1,5,7,22,11,0,3
+537,46755,2019-12-08,Matchweek 16,Aston Villa,Leicester City,2019/2020,1,4,40.4,59.6,2,8,15,23,0,3
+538,46760,2019-12-08,Matchweek 16,Newcastle United,Southampton,2019/2020,2,1,45.3,54.7,6,4,12,19,3,0
+539,46764,2019-12-10,Matchweek 16,West Ham United,Arsenal,2019/2020,1,3,35.8,64.2,4,3,11,10,0,3
+540,46766,2019-12-14,Matchweek 17,Burnley,Newcastle United,2019/2020,1,0,48.0,52.0,4,0,7,9,3,0
+541,46767,2019-12-14,Matchweek 17,Chelsea,AFC Bournemouth,2019/2020,0,1,67.0,33.0,5,2,18,11,0,3
+542,46769,2019-12-14,Matchweek 17,Leicester City,Norwich City,2019/2020,1,1,56.8,43.2,5,3,18,10,1,1
+543,46770,2019-12-14,Matchweek 17,Liverpool,Watford,2019/2020,2,0,67.9,32.1,6,2,16,8,3,0
+544,46772,2019-12-14,Matchweek 17,Sheffield United,Aston Villa,2019/2020,2,0,56.7,43.3,3,0,7,8,3,0
+545,46765,2019-12-15,Matchweek 17,Arsenal,Manchester City,2019/2020,0,3,42.4,57.6,1,7,6,14,0,3
+546,46771,2019-12-15,Matchweek 17,Manchester United,Everton,2019/2020,1,1,66.5,33.5,8,3,24,8,1,1
+547,46773,2019-12-15,Matchweek 17,Southampton,West Ham United,2019/2020,0,1,57.0,43.0,2,4,11,11,0,3
+548,46774,2019-12-15,Matchweek 17,Wolverhampton Wanderers,Tottenham Hotspur,2019/2020,1,2,57.8,42.2,5,5,19,9,0,3
+549,46768,2019-12-17,Matchweek 17,Crystal Palace,Brighton and Hove Albion,2019/2020,1,1,34.8,65.2,4,10,11,15,1,1
+550,46781,2019-12-21,Matchweek 18,Norwich City,Wolverhampton Wanderers,2019/2020,1,2,50.2,49.8,7,4,13,14,0,3
+551,46780,2019-12-21,Matchweek 18,Newcastle United,Crystal Palace,2019/2020,1,0,42.5,57.5,3,4,8,16,3,0
+552,46778,2019-12-21,Matchweek 18,Everton,Arsenal,2019/2020,0,0,43.0,57.0,0,2,9,6,1,1
+553,46776,2019-12-21,Matchweek 18,AFC Bournemouth,Burnley,2019/2020,0,1,64.8,35.2,0,1,3,2,0,3
+554,46775,2019-12-21,Matchweek 18,Aston Villa,Southampton,2019/2020,1,3,56.5,43.5,6,8,19,17,0,3
+555,46777,2019-12-21,Matchweek 18,Brighton and Hove Albion,Sheffield United,2019/2020,0,1,69.0,31.0,2,2,9,7,0,3
+556,46779,2019-12-22,Matchweek 18,Manchester City,Leicester City,2019/2020,3,1,62.7,37.3,12,2,23,5,3,0
+557,46782,2019-12-22,Matchweek 18,Tottenham Hotspur,Chelsea,2019/2020,0,2,44.5,55.5,1,3,5,13,0,3
+558,46783,2019-12-22,Matchweek 18,Watford,Manchester United,2019/2020,2,0,36.1,63.9,3,8,11,17,3,0
+559,46793,2019-12-26,Matchweek 19,Tottenham Hotspur,Brighton and Hove Albion,2019/2020,2,1,53.8,46.2,5,5,11,11,3,0
+560,46792,2019-12-26,Matchweek 19,Sheffield United,Watford,2019/2020,1,1,58.1,41.9,4,2,16,5,1,1
+561,46789,2019-12-26,Matchweek 19,Everton,Burnley,2019/2020,1,0,67.5,32.5,5,0,21,6,3,0
+562,46788,2019-12-26,Matchweek 19,Crystal Palace,West Ham United,2019/2020,2,1,58.2,41.8,4,2,13,10,3,0
+563,46786,2019-12-26,Matchweek 19,AFC Bournemouth,Arsenal,2019/2020,1,1,39.5,60.5,4,2,12,17,1,1
+564,46785,2019-12-26,Matchweek 19,Aston Villa,Norwich City,2019/2020,1,0,42.5,57.5,2,6,11,16,3,0
+565,46787,2019-12-26,Matchweek 19,Chelsea,Southampton,2019/2020,0,2,66.1,33.9,3,3,10,5,0,3
+566,46790,2019-12-27,Matchweek 19,Leicester City,Liverpool,2019/2020,0,4,41.2,58.8,0,6,3,15,0,3
+567,46791,2019-12-27,Matchweek 19,Manchester United,Newcastle United,2019/2020,4,1,73.3,26.7,10,2,22,7,3,0
+568,46803,2019-12-28,Matchweek 20,Watford,Aston Villa,2019/2020,3,0,48.8,51.2,6,2,20,11,3,0
+569,46802,2019-12-28,Matchweek 20,Southampton,Crystal Palace,2019/2020,1,1,59.9,40.1,5,2,14,5,1,1
+570,46800,2019-12-28,Matchweek 20,Newcastle United,Everton,2019/2020,1,2,42.7,57.3,5,9,20,22,0,3
+571,46794,2019-12-28,Matchweek 19,Wolverhampton Wanderers,Manchester City,2019/2020,3,2,61.9,38.1,8,3,21,7,3,0
+572,46796,2019-12-28,Matchweek 20,Brighton and Hove Albion,AFC Bournemouth,2019/2020,2,0,55.1,44.9,6,2,16,10,3,0
+573,46804,2019-12-29,Matchweek 20,West Ham United,Leicester City,2019/2020,1,2,42.7,57.3,4,8,14,13,0,3
+574,46801,2019-12-29,Matchweek 20,Norwich City,Tottenham Hotspur,2019/2020,2,2,41.1,58.9,2,7,5,15,1,1
+575,46797,2019-12-29,Matchweek 20,Burnley,Manchester United,2019/2020,0,2,38.6,61.4,1,5,8,14,0,3
+576,46795,2019-12-29,Matchweek 20,Arsenal,Chelsea,2019/2020,1,2,42.1,57.9,2,4,7,13,0,3
+577,46798,2019-12-29,Matchweek 20,Liverpool,Wolverhampton Wanderers,2019/2020,1,0,62.9,37.1,3,2,10,10,3,0
+578,46799,2019-12-30,Matchweek 20,Manchester City,Sheffield United,2019/2020,2,0,72.9,27.1,4,0,16,8,3,0
+579,46812,2020-01-01,Matchweek 21,Southampton,Tottenham Hotspur,2019/2020,1,0,40.9,59.1,3,5,12,11,3,0
+580,46806,2020-01-01,Matchweek 21,Brighton and Hove Albion,Chelsea,2019/2020,1,1,47.7,52.3,5,5,16,16,1,1
+581,46807,2020-01-01,Matchweek 21,Burnley,Aston Villa,2019/2020,1,2,61.9,38.1,1,6,20,11,0,3
+582,46810,2020-01-01,Matchweek 21,Newcastle United,Leicester City,2019/2020,0,3,23.4,76.6,2,10,5,17,0,3
+583,46813,2020-01-01,Matchweek 21,Watford,Wolverhampton Wanderers,2019/2020,2,1,36.4,63.6,3,4,9,16,3,0
+584,46805,2020-01-02,Matchweek 21,Arsenal,Manchester United,2019/2020,2,0,48.8,51.2,4,4,10,10,3,0
+585,46809,2020-01-02,Matchweek 21,Manchester City,Everton,2019/2020,2,1,65.4,34.6,7,2,16,7,3,0
+586,46811,2020-01-02,Matchweek 21,Norwich City,Crystal Palace,2019/2020,1,1,40.6,59.4,4,3,15,12,1,1
+587,46814,2020-01-02,Matchweek 21,West Ham United,AFC Bournemouth,2019/2020,4,0,42.6,57.4,7,2,14,3,3,0
+588,46808,2020-01-03,Matchweek 21,Liverpool,Sheffield United,2019/2020,2,0,74.8,25.2,7,2,19,3,3,0
+589,46819,2020-01-11,Matchweek 22,Everton,Brighton and Hove Albion,2019/2020,1,0,53.8,46.2,6,2,14,9,3,0
+590,46818,2020-01-11,Matchweek 22,Crystal Palace,Arsenal,2019/2020,1,1,42.7,57.3,3,4,6,7,1,1
+591,46817,2020-01-11,Matchweek 22,Chelsea,Burnley,2019/2020,3,0,65.5,34.5,8,3,18,7,3,0
+592,46820,2020-01-11,Matchweek 22,Leicester City,Southampton,2019/2020,1,2,58.2,41.8,5,10,5,16,0,3
+593,46824,2020-01-11,Matchweek 22,Wolverhampton Wanderers,Newcastle United,2019/2020,1,1,65.7,34.3,4,1,9,5,1,1
+594,46822,2020-01-11,Matchweek 22,Sheffield United,West Ham United,2019/2020,1,0,46.9,53.1,3,2,13,7,3,0
+595,46821,2020-01-11,Matchweek 22,Manchester United,Norwich City,2019/2020,4,0,59.6,40.4,6,3,13,8,3,0
+596,46823,2020-01-12,Matchweek 22,Tottenham Hotspur,Liverpool,2019/2020,0,1,33.2,66.8,4,7,14,13,0,3
+597,46815,2020-01-12,Matchweek 22,Aston Villa,Manchester City,2019/2020,1,6,29.4,70.6,1,12,7,22,0,3
+598,46816,2020-01-12,Matchweek 22,AFC Bournemouth,Watford,2019/2020,0,3,56.7,43.3,1,6,10,18,0,3
+599,46831,2020-01-18,Matchweek 23,Norwich City,AFC Bournemouth,2019/2020,1,0,66.0,34.0,5,3,16,6,3,0
+600,46832,2020-01-18,Matchweek 23,Southampton,Wolverhampton Wanderers,2019/2020,2,3,52.5,47.5,5,4,11,8,0,3
+601,46834,2020-01-18,Matchweek 23,West Ham United,Everton,2019/2020,1,1,48.8,51.2,6,3,12,11,1,1
+602,46829,2020-01-18,Matchweek 23,Manchester City,Crystal Palace,2019/2020,2,2,72.5,27.5,6,3,25,5,1,1
+603,46833,2020-01-18,Matchweek 23,Watford,Tottenham Hotspur,2019/2020,0,0,41.5,58.5,2,5,15,16,1,1
+604,46826,2020-01-18,Matchweek 23,Brighton and Hove Albion,Aston Villa,2019/2020,1,1,55.3,44.7,2,3,10,8,1,1
+605,46825,2020-01-18,Matchweek 23,Arsenal,Sheffield United,2019/2020,1,1,61.0,39.0,4,4,11,12,1,1
+606,46827,2020-01-19,Matchweek 23,Burnley,Leicester City,2019/2020,2,1,44.5,55.5,5,8,8,18,3,0
+607,46830,2020-01-19,Matchweek 23,Newcastle United,Chelsea,2019/2020,1,0,30.1,69.9,2,4,7,19,3,0
+608,46828,2020-01-19,Matchweek 23,Liverpool,Manchester United,2019/2020,2,0,53.2,46.8,5,4,16,9,3,0
+609,46843,2020-01-22,Matchweek 24,Crystal Palace,Southampton,2019/2020,0,2,44.4,55.6,0,6,6,15,0,3
+610,46842,2020-01-22,Matchweek 24,Chelsea,Arsenal,2019/2020,2,2,58.8,41.2,8,2,19,2,1,1
+611,46840,2020-01-22,Matchweek 24,Sheffield United,Manchester City,2019/2020,0,1,32.7,67.3,1,5,4,18,0,3
+612,46835,2020-01-22,Matchweek 24,Aston Villa,Watford,2019/2020,2,1,64.5,35.5,5,2,16,8,3,0
+613,46836,2020-01-22,Matchweek 24,AFC Bournemouth,Brighton and Hove Albion,2019/2020,3,1,34.7,65.3,3,8,11,21,3,0
+614,46837,2020-01-22,Matchweek 24,Everton,Newcastle United,2019/2020,2,2,54.9,45.1,8,3,17,9,1,1
+615,46838,2020-01-23,Matchweek 24,Leicester City,West Ham United,2019/2020,4,1,67.3,32.7,8,2,19,6,3,0
+616,46839,2020-01-23,Matchweek 24,Manchester United,Burnley,2019/2020,0,2,72.2,27.8,7,2,24,5,0,3
+617,46844,2020-01-23,Matchweek 24,Tottenham Hotspur,Norwich City,2019/2020,2,1,50.4,49.6,3,2,14,13,3,0
+618,46841,2020-01-24,Matchweek 24,Wolverhampton Wanderers,Liverpool,2019/2020,1,2,46.4,53.6,3,6,10,13,0,3
+619,46784,2020-01-30,Matchweek 24,West Ham United,Liverpool,2019/2020,0,2,29.4,70.6,4,5,7,13,0,3
+620,46854,2020-02-01,Matchweek 25,West Ham United,Brighton and Hove Albion,2019/2020,3,3,35.1,64.9,6,6,12,19,1,1
+621,46845,2020-02-01,Matchweek 25,AFC Bournemouth,Aston Villa,2019/2020,2,1,39.6,60.4,6,5,16,18,3,0
+622,46853,2020-02-01,Matchweek 25,Watford,Everton,2019/2020,2,3,44.6,55.4,2,5,11,12,0,3
+623,46847,2020-02-01,Matchweek 25,Crystal Palace,Sheffield United,2019/2020,0,1,60.7,39.3,3,3,13,10,0,3
+624,46848,2020-02-01,Matchweek 25,Leicester City,Chelsea,2019/2020,2,2,49.7,50.3,4,3,14,7,1,1
+625,46849,2020-02-01,Matchweek 25,Liverpool,Southampton,2019/2020,4,0,61.5,38.5,9,4,16,17,3,0
+626,46851,2020-02-01,Matchweek 25,Newcastle United,Norwich City,2019/2020,0,0,43.4,56.6,5,4,15,19,1,1
+627,46852,2020-02-02,Matchweek 25,Tottenham Hotspur,Manchester City,2019/2020,2,0,33.1,66.9,3,6,3,19,3,0
+628,46846,2020-02-02,Matchweek 25,Burnley,Arsenal,2019/2020,0,0,42.7,57.3,2,2,15,13,1,1
+629,46850,2020-02-02,Matchweek 25,Manchester United,Wolverhampton Wanderers,2019/2020,0,0,63.7,36.3,5,4,16,15,1,1
+630,46859,2020-02-08,Matchweek 26,Everton,Crystal Palace,2019/2020,3,1,46.6,53.4,8,2,14,10,3,0
+631,46857,2020-02-09,Matchweek 26,Brighton and Hove Albion,Watford,2019/2020,1,1,67.2,32.8,2,2,10,5,1,1
+632,46862,2020-02-09,Matchweek 26,Sheffield United,AFC Bournemouth,2019/2020,2,1,54.3,45.7,6,2,16,10,3,0
+633,46863,2020-02-15,Matchweek 26,Southampton,Burnley,2019/2020,1,2,63.6,36.4,2,6,10,9,0,3
+634,46864,2020-02-15,Matchweek 26,Wolverhampton Wanderers,Leicester City,2019/2020,0,0,40.8,59.2,3,3,15,9,1,1
+635,46855,2020-02-16,Matchweek 26,Arsenal,Newcastle United,2019/2020,4,0,68.4,31.6,7,2,15,10,3,0
+636,46856,2020-02-16,Matchweek 26,Aston Villa,Tottenham Hotspur,2019/2020,2,3,54.3,45.7,4,10,18,23,0,3
+637,46861,2020-02-16,Matchweek 26,Norwich City,Liverpool,2019/2020,0,1,36.7,63.3,1,6,5,17,0,3
+638,46858,2020-02-18,Matchweek 26,Chelsea,Manchester United,2019/2020,0,2,61.2,38.8,1,3,17,9,0,3
+639,46860,2020-02-20,Matchweek 26,Manchester City,West Ham United,2019/2020,2,0,77.3,22.7,7,0,20,3,3,0
+640,46872,2020-02-22,Matchweek 27,Sheffield United,Brighton and Hove Albion,2019/2020,1,1,66.3,33.7,3,2,13,9,1,1
+641,46873,2020-02-22,Matchweek 27,Southampton,Aston Villa,2019/2020,2,0,45.9,54.1,9,1,28,4,3,0
+642,46868,2020-02-22,Matchweek 27,Crystal Palace,Newcastle United,2019/2020,1,0,44.2,55.8,9,2,18,8,3,0
+643,46866,2020-02-22,Matchweek 27,Burnley,AFC Bournemouth,2019/2020,3,0,42.1,57.9,10,4,16,12,3,0
+644,46867,2020-02-22,Matchweek 27,Chelsea,Tottenham Hotspur,2019/2020,2,1,49.1,50.9,7,3,17,5,3,0
+645,46871,2020-02-23,Matchweek 27,Manchester United,Watford,2019/2020,3,0,58.0,42.0,9,2,21,7,3,0
+646,46865,2020-02-23,Matchweek 27,Arsenal,Everton,2019/2020,3,2,51.3,48.7,4,5,9,17,3,0
+647,46874,2020-02-23,Matchweek 27,Wolverhampton Wanderers,Norwich City,2019/2020,3,0,39.8,60.2,6,4,19,6,3,0
+648,46869,2020-02-23,Matchweek 27,Leicester City,Manchester City,2019/2020,0,1,31.9,68.1,3,7,10,18,0,3
+649,46870,2020-02-25,Matchweek 27,Liverpool,West Ham United,2019/2020,3,2,69.3,30.7,7,4,25,7,3,0
+650,46884,2020-02-29,Matchweek 28,West Ham United,Southampton,2019/2020,3,1,33.7,66.3,7,2,14,10,3,0
+651,46876,2020-02-29,Matchweek 28,AFC Bournemouth,Chelsea,2019/2020,2,2,26.9,73.1,5,6,9,23,1,1
+652,46877,2020-02-29,Matchweek 28,Brighton and Hove Albion,Crystal Palace,2019/2020,0,1,66.5,33.5,8,3,23,12,0,3
+653,46881,2020-02-29,Matchweek 28,Norwich City,Leicester City,2019/2020,1,0,42.6,57.4,6,4,11,19,3,0
+654,46880,2020-02-29,Matchweek 28,Newcastle United,Burnley,2019/2020,0,0,54.0,46.0,4,0,21,7,1,1
+655,46883,2020-03-01,Matchweek 28,Watford,Liverpool,2019/2020,3,0,29.2,70.8,5,1,14,7,3,0
+656,46878,2020-03-01,Matchweek 28,Everton,Manchester United,2019/2020,1,1,44.1,55.9,5,5,16,14,1,1
+657,46882,2020-03-01,Matchweek 28,Tottenham Hotspur,Wolverhampton Wanderers,2019/2020,2,3,65.5,34.5,5,4,13,14,0,3
+658,46885,2020-03-07,Matchweek 29,Arsenal,West Ham United,2019/2020,1,0,68.9,31.1,2,6,9,14,3,0
+659,46888,2020-03-07,Matchweek 29,Crystal Palace,Watford,2019/2020,1,0,44.2,55.8,3,3,10,10,3,0
+660,46890,2020-03-07,Matchweek 29,Liverpool,AFC Bournemouth,2019/2020,2,1,74.5,25.5,6,4,14,6,3,0
+661,46892,2020-03-07,Matchweek 29,Sheffield United,Norwich City,2019/2020,1,0,41.8,58.2,4,5,10,12,3,0
+662,46893,2020-03-07,Matchweek 29,Southampton,Newcastle United,2019/2020,0,1,38.0,62.0,3,7,6,14,0,3
+663,46894,2020-03-07,Matchweek 29,Wolverhampton Wanderers,Brighton and Hove Albion,2019/2020,0,0,43.1,56.9,1,1,11,7,1,1
+664,46886,2020-03-08,Matchweek 29,Burnley,Tottenham Hotspur,2019/2020,1,1,45.0,55.0,8,2,21,13,1,1
+665,46887,2020-03-08,Matchweek 29,Chelsea,Everton,2019/2020,4,0,60.2,39.8,11,1,17,3,3,0
+666,46891,2020-03-08,Matchweek 29,Manchester United,Manchester City,2019/2020,2,0,27.7,72.3,6,4,12,7,3,0
+667,46889,2020-03-10,Matchweek 29,Leicester City,Aston Villa,2019/2020,4,0,64.6,35.4,7,1,15,4,3,0
+668,46875,2020-06-18,Matchweek 30,Aston Villa,Sheffield United,2019/2020,0,0,45.1,54.9,6,1,14,5,1,1
+669,46879,2020-06-18,Matchweek 30,Manchester City,Arsenal,2019/2020,3,0,67.1,32.9,12,0,20,3,3,0
+670,46904,2020-06-20,Matchweek 30,West Ham United,Wolverhampton Wanderers,2019/2020,0,2,42.2,57.8,2,6,7,10,0,3
+671,46903,2020-06-20,Matchweek 30,Watford,Leicester City,2019/2020,1,1,31.7,68.3,4,2,8,15,1,1
+672,46902,2020-06-20,Matchweek 30,Tottenham Hotspur,Manchester United,2019/2020,1,1,38.8,61.2,3,6,10,12,1,1
+673,46901,2020-06-20,Matchweek 30,Norwich City,Southampton,2019/2020,0,3,55.0,45.0,1,9,9,22,0,3
+674,46897,2020-06-20,Matchweek 30,Brighton and Hove Albion,Arsenal,2019/2020,2,1,41.3,58.7,5,6,9,13,3,0
+675,46900,2020-06-21,Matchweek 30,Newcastle United,Sheffield United,2019/2020,3,0,46.0,54.0,8,1,12,7,3,0
+676,46896,2020-06-21,Matchweek 30,AFC Bournemouth,Crystal Palace,2019/2020,0,2,58.7,41.3,1,2,12,7,0,3
+677,46895,2020-06-21,Matchweek 30,Aston Villa,Chelsea,2019/2020,1,2,26.0,74.0,4,5,8,19,0,3
+678,46898,2020-06-22,Matchweek 30,Everton,Liverpool,2019/2020,0,0,29.9,70.1,3,3,8,10,1,1
+679,46899,2020-06-23,Matchweek 30,Manchester City,Burnley,2019/2020,5,0,71.7,28.3,7,0,19,1,3,0
+680,46913,2020-06-24,Matchweek 31,Tottenham Hotspur,West Ham United,2019/2020,2,0,64.5,35.5,4,2,15,10,3,0
+681,46907,2020-06-24,Matchweek 31,Leicester City,Brighton and Hove Albion,2019/2020,0,0,66.4,33.6,2,2,11,10,1,1
+682,46914,2020-06-25,Matchweek 31,Wolverhampton Wanderers,AFC Bournemouth,2019/2020,1,0,55.1,44.9,2,0,10,4,3,0
+683,46911,2020-06-25,Matchweek 31,Norwich City,Everton,2019/2020,0,1,46.6,53.4,1,5,9,12,0,3
+684,46910,2020-06-25,Matchweek 31,Newcastle United,Aston Villa,2019/2020,1,1,52.1,47.9,3,2,13,14,1,1
+685,46909,2020-06-25,Matchweek 31,Manchester United,Sheffield United,2019/2020,3,0,68.2,31.8,6,1,15,4,3,0
+686,46908,2020-06-25,Matchweek 31,Liverpool,Crystal Palace,2019/2020,4,0,73.3,26.7,7,0,21,3,3,0
+687,46912,2020-06-26,Matchweek 31,Southampton,Arsenal,2019/2020,0,2,52.6,47.4,3,5,12,10,0,3
+688,46906,2020-06-26,Matchweek 31,Chelsea,Manchester City,2019/2020,2,1,35.3,64.7,10,2,15,11,3,0
+689,46905,2020-06-26,Matchweek 31,Burnley,Watford,2019/2020,1,0,55.2,44.8,5,4,9,10,3,0
+690,46916,2020-06-27,Matchweek 32,Aston Villa,Wolverhampton Wanderers,2019/2020,0,1,48.0,52.0,1,2,11,9,0,3
+691,46923,2020-06-28,Matchweek 32,Watford,Southampton,2019/2020,1,3,47.6,52.4,0,7,8,11,0,3
+692,46919,2020-06-30,Matchweek 32,Crystal Palace,Burnley,2019/2020,0,1,58.4,41.6,4,4,17,8,0,3
+693,46918,2020-07-01,Matchweek 32,Brighton and Hove Albion,Manchester United,2019/2020,0,3,38.0,62.0,2,6,8,12,0,3
+694,46924,2020-07-02,Matchweek 32,West Ham United,Chelsea,2019/2020,3,2,28.8,71.2,4,6,10,17,3,0
+695,46917,2020-07-02,Matchweek 32,AFC Bournemouth,Newcastle United,2019/2020,1,4,54.9,45.1,1,7,12,12,0,3
+696,46915,2020-07-02,Matchweek 32,Arsenal,Norwich City,2019/2020,4,0,51.6,48.4,8,2,13,8,3,0
+697,46920,2020-07-02,Matchweek 32,Everton,Leicester City,2019/2020,2,1,34.9,65.1,2,3,7,15,3,0
+698,46921,2020-07-03,Matchweek 32,Manchester City,Liverpool,2019/2020,4,0,47.0,53.0,6,3,14,11,3,0
+699,46922,2020-07-03,Matchweek 32,Sheffield United,Tottenham Hotspur,2019/2020,3,1,32.5,67.5,5,2,7,9,3,0
+700,46927,2020-07-04,Matchweek 33,Leicester City,Crystal Palace,2019/2020,3,0,52.2,47.8,4,1,15,7,3,0
+701,46929,2020-07-04,Matchweek 33,Manchester United,AFC Bournemouth,2019/2020,5,2,69.3,30.7,10,3,19,7,3,0
+702,46931,2020-07-04,Matchweek 33,Norwich City,Brighton and Hove Albion,2019/2020,0,1,58.0,42.0,1,2,12,8,0,3
+703,46934,2020-07-04,Matchweek 33,Wolverhampton Wanderers,Arsenal,2019/2020,0,2,51.9,48.1,1,5,10,8,0,3
+704,46925,2020-07-05,Matchweek 33,Burnley,Sheffield United,2019/2020,1,1,47.4,52.6,4,3,9,10,1,1
+705,46926,2020-07-05,Matchweek 33,Chelsea,Watford,2019/2020,3,0,70.4,29.6,9,3,21,7,3,0
+706,46928,2020-07-05,Matchweek 33,Liverpool,Aston Villa,2019/2020,2,0,71.2,28.8,4,3,6,9,3,0
+707,46930,2020-07-05,Matchweek 33,Newcastle United,West Ham United,2019/2020,2,2,57.4,42.6,4,7,11,17,1,1
+708,46932,2020-07-06,Matchweek 33,Southampton,Manchester City,2019/2020,1,0,26.3,73.7,4,6,8,26,3,0
+709,46933,2020-07-07,Matchweek 33,Tottenham Hotspur,Everton,2019/2020,1,0,51.6,48.4,2,3,12,11,3,0
+710,46943,2020-07-08,Matchweek 34,Watford,Norwich City,2019/2020,2,1,43.5,56.5,4,3,9,12,3,0
+711,46939,2020-07-08,Matchweek 34,Crystal Palace,Chelsea,2019/2020,2,3,42.0,58.0,4,6,13,14,0,3
+712,46935,2020-07-08,Matchweek 34,Arsenal,Leicester City,2019/2020,1,1,37.5,62.5,7,5,11,13,1,1
+713,46938,2020-07-09,Matchweek 34,Brighton and Hove Albion,Liverpool,2019/2020,1,3,44.4,55.6,2,8,12,20,0,3
+714,46941,2020-07-09,Matchweek 34,Manchester City,Newcastle United,2019/2020,5,0,73.6,26.4,9,1,23,6,3,0
+715,46942,2020-07-09,Matchweek 34,Sheffield United,Wolverhampton Wanderers,2019/2020,1,0,42.8,57.2,3,1,7,6,3,0
+716,46944,2020-07-09,Matchweek 34,West Ham United,Burnley,2019/2020,0,1,53.2,46.8,5,4,21,8,0,3
+717,46937,2020-07-10,Matchweek 34,AFC Bournemouth,Tottenham Hotspur,2019/2020,0,0,35.7,64.3,2,0,9,9,1,1
+718,46940,2020-07-10,Matchweek 34,Everton,Southampton,2019/2020,1,1,38.7,61.3,4,4,11,16,1,1
+719,46936,2020-07-10,Matchweek 34,Aston Villa,Manchester United,2019/2020,0,3,33.4,66.6,1,6,9,14,0,3
+720,46953,2020-07-11,Matchweek 35,Watford,Newcastle United,2019/2020,2,1,47.7,52.3,5,4,17,8,3,0
+721,46951,2020-07-11,Matchweek 35,Sheffield United,Chelsea,2019/2020,3,0,23.7,76.3,4,4,9,15,3,0
+722,46948,2020-07-11,Matchweek 35,Liverpool,Burnley,2019/2020,1,1,70.8,29.2,9,2,23,6,1,1
+723,46950,2020-07-11,Matchweek 35,Norwich City,West Ham United,2019/2020,0,4,52.5,47.5,2,7,11,19,0,3
+724,46954,2020-07-12,Matchweek 35,Wolverhampton Wanderers,Everton,2019/2020,3,0,55.1,44.9,7,2,14,6,3,0
+725,46952,2020-07-12,Matchweek 35,Tottenham Hotspur,Arsenal,2019/2020,2,1,37.3,62.7,9,4,15,13,3,0
+726,46947,2020-07-12,Matchweek 35,Brighton and Hove Albion,Manchester City,2019/2020,0,5,29.8,70.2,0,8,3,26,0,3
+727,46945,2020-07-12,Matchweek 35,Aston Villa,Crystal Palace,2019/2020,2,0,44.9,55.1,9,5,12,9,3,0
+728,46946,2020-07-13,Matchweek 35,AFC Bournemouth,Leicester City,2019/2020,4,1,44.1,55.9,4,5,9,13,3,0
+729,46949,2020-07-14,Matchweek 35,Manchester United,Southampton,2019/2020,2,2,47.5,52.5,4,5,8,9,1,1
+730,46957,2020-07-15,Matchweek 36,Chelsea,Norwich City,2019/2020,1,0,67.7,32.3,6,0,22,2,3,0
+731,46955,2020-07-16,Matchweek 36,Arsenal,Liverpool,2019/2020,2,1,31.1,68.9,2,8,3,24,3,0
+732,46956,2020-07-16,Matchweek 36,Burnley,Wolverhampton Wanderers,2019/2020,1,1,46.7,53.3,1,5,9,14,1,1
+733,46962,2020-07-16,Matchweek 36,Newcastle United,Tottenham Hotspur,2019/2020,1,3,52.8,47.2,6,5,22,8,0,3
+734,46961,2020-07-16,Matchweek 36,Manchester City,AFC Bournemouth,2019/2020,2,1,72.5,27.5,4,3,8,15,3,0
+735,46963,2020-07-17,Matchweek 36,Southampton,Brighton and Hove Albion,2019/2020,1,1,67.9,32.1,6,2,21,10,1,1
+736,46959,2020-07-17,Matchweek 36,Everton,Aston Villa,2019/2020,1,1,54.9,45.1,1,1,9,15,1,1
+737,46958,2020-07-17,Matchweek 36,Crystal Palace,Manchester United,2019/2020,0,2,40.6,59.4,5,5,13,17,0,3
+738,46960,2020-07-17,Matchweek 36,Leicester City,Sheffield United,2019/2020,2,0,54.4,45.6,7,1,15,5,3,0
+739,46964,2020-07-18,Matchweek 36,West Ham United,Watford,2019/2020,3,1,40.6,59.4,4,3,10,14,3,0
+740,46970,2020-07-18,Matchweek 37,Norwich City,Burnley,2019/2020,0,2,42.3,57.7,2,8,6,23,0,3
+741,46972,2020-07-19,Matchweek 37,Tottenham Hotspur,Leicester City,2019/2020,3,0,29.0,71.0,3,6,7,24,3,0
+742,46966,2020-07-19,Matchweek 37,AFC Bournemouth,Southampton,2019/2020,0,2,43.0,57.0,3,8,11,16,0,3
+743,46971,2020-07-21,Matchweek 37,Sheffield United,Everton,2019/2020,0,1,50.6,49.4,0,2,8,5,0,3
+744,46974,2020-07-21,Matchweek 37,Wolverhampton Wanderers,Crystal Palace,2019/2020,2,0,53.4,46.6,5,3,11,7,3,0
+745,46967,2020-07-21,Matchweek 37,Brighton and Hove Albion,Newcastle United,2019/2020,0,0,62.5,37.5,3,1,11,12,1,1
+746,46965,2020-07-22,Matchweek 37,Aston Villa,Arsenal,2019/2020,1,0,31.0,69.0,3,0,8,7,3,0
+747,46973,2020-07-22,Matchweek 37,Watford,Manchester City,2019/2020,0,4,23.1,76.9,0,10,2,26,0,3
+748,46968,2020-07-23,Matchweek 37,Liverpool,Chelsea,2019/2020,5,3,50.0,50.0,7,5,10,10,3,0
+749,46969,2020-07-23,Matchweek 37,Manchester United,West Ham United,2019/2020,1,1,57.2,42.8,4,3,11,12,1,1
+750,46975,2020-07-26,Matchweek 38,Arsenal,Watford,2019/2020,3,2,51.1,48.9,5,6,13,19,3,0
+751,46976,2020-07-26,Matchweek 38,Burnley,Brighton and Hove Albion,2019/2020,1,2,54.2,45.8,2,4,13,15,0,3
+752,46977,2020-07-26,Matchweek 38,Chelsea,Wolverhampton Wanderers,2019/2020,2,0,62.9,37.1,3,1,11,5,3,0
+753,46978,2020-07-26,Matchweek 38,Crystal Palace,Tottenham Hotspur,2019/2020,1,1,47.2,52.8,2,2,13,7,1,1
+754,46980,2020-07-26,Matchweek 38,Leicester City,Manchester United,2019/2020,0,2,45.8,54.2,3,3,14,7,0,3
+755,46981,2020-07-26,Matchweek 38,Manchester City,Norwich City,2019/2020,5,0,73.1,26.9,10,4,31,5,3,0
+756,46982,2020-07-26,Matchweek 38,Newcastle United,Liverpool,2019/2020,1,3,25.3,74.7,2,6,3,14,0,3
+757,46983,2020-07-26,Matchweek 38,Southampton,Sheffield United,2019/2020,3,1,72.1,27.9,4,3,13,5,3,0
+758,46984,2020-07-26,Matchweek 38,West Ham United,Aston Villa,2019/2020,1,1,63.0,37.0,1,4,10,13,1,1
+759,46979,2020-07-26,Matchweek 38,Everton,AFC Bournemouth,2019/2020,1,3,70.0,30.0,5,7,13,13,0,3
+760,58899,2020-09-12,Matchweek 1,Liverpool,Leeds United,2020/2021,4,3,48.8,51.2,6,3,22,6,3,0
+761,58897,2020-09-12,Matchweek 1,Crystal Palace,Southampton,2020/2021,1,0,29.4,70.6,3,5,5,9,3,0
+762,58898,2020-09-12,Matchweek 1,Fulham,Arsenal,2020/2021,0,3,45.6,54.4,2,6,5,13,0,3
+763,58902,2020-09-13,Matchweek 1,West Bromwich Albion,Leicester City,2020/2021,0,3,35.8,64.2,1,7,7,13,0,3
+764,58903,2020-09-13,Matchweek 1,West Ham United,Newcastle United,2020/2021,0,2,58.3,41.7,3,2,15,15,0,3
+765,58901,2020-09-13,Matchweek 1,Tottenham Hotspur,Everton,2020/2021,0,1,51.6,48.4,5,4,9,15,0,3
+766,58904,2020-09-15,Matchweek 1,Brighton and Hove Albion,Chelsea,2020/2021,1,3,52.3,47.7,3,5,13,10,0,3
+767,58905,2020-09-15,Matchweek 1,Sheffield United,Wolverhampton Wanderers,2020/2021,0,2,55.1,44.9,2,4,9,11,0,3
+768,58912,2020-09-19,Matchweek 2,Manchester United,Crystal Palace,2020/2021,1,3,75.8,24.2,4,5,17,14,0,3
+769,58909,2020-09-19,Matchweek 2,Everton,West Bromwich Albion,2020/2021,5,2,71.3,28.7,7,4,17,6,3,0
+770,58910,2020-09-19,Matchweek 2,Leeds United,Fulham,2020/2021,4,3,50.3,49.7,7,6,10,14,3,0
+771,58906,2020-09-20,Matchweek 2,Arsenal,West Ham United,2020/2021,2,1,62.6,37.4,3,3,7,14,3,0
+772,58908,2020-09-20,Matchweek 2,Chelsea,Liverpool,2020/2021,0,2,38.7,61.3,3,6,5,18,0,3
+773,58913,2020-09-20,Matchweek 2,Newcastle United,Brighton and Hove Albion,2020/2021,0,3,47.2,52.8,0,6,6,13,0,3
+774,58914,2020-09-20,Matchweek 2,Southampton,Tottenham Hotspur,2020/2021,2,5,52.5,47.5,7,6,14,9,0,3
+775,58911,2020-09-21,Matchweek 2,Leicester City,Burnley,2020/2021,4,2,67.8,32.2,6,5,14,16,3,0
+776,58907,2020-09-22,Matchweek 2,Aston Villa,Sheffield United,2020/2021,1,0,71.9,28.1,2,1,18,4,3,0
+777,58915,2020-09-22,Matchweek 2,Wolverhampton Wanderers,Manchester City,2020/2021,1,3,34.8,65.2,1,9,10,14,0,3
+778,58918,2020-09-26,Matchweek 3,Crystal Palace,Everton,2020/2021,1,2,42.3,57.7,1,5,8,10,0,3
+779,58916,2020-09-26,Matchweek 3,Brighton and Hove Albion,Manchester United,2020/2021,2,3,53.3,46.7,5,3,18,7,0,3
+780,58924,2020-09-26,Matchweek 3,West Bromwich Albion,Chelsea,2020/2021,3,3,24.1,75.9,3,10,9,22,1,1
+781,58917,2020-09-27,Matchweek 3,Burnley,Southampton,2020/2021,0,1,53.4,46.6,2,1,10,5,0,3
+782,58921,2020-09-27,Matchweek 3,Manchester City,Leicester City,2020/2021,2,5,71.7,28.3,5,7,16,7,0,3
+783,58923,2020-09-27,Matchweek 3,Tottenham Hotspur,Newcastle United,2020/2021,1,1,65.8,34.2,12,1,23,6,1,1
+784,58922,2020-09-27,Matchweek 3,Sheffield United,Leeds United,2020/2021,0,1,36.3,63.7,4,9,14,17,0,3
+785,58919,2020-09-28,Matchweek 3,Fulham,Aston Villa,2020/2021,0,3,65.0,35.0,3,5,16,12,0,3
+786,58925,2020-09-28,Matchweek 3,West Ham United,Wolverhampton Wanderers,2020/2021,4,0,36.9,63.1,7,2,15,11,3,0
+787,58920,2020-09-29,Matchweek 3,Liverpool,Arsenal,2020/2021,3,1,66.0,34.0,8,3,21,4,3,0
+788,58928,2020-10-03,Matchweek 4,Chelsea,Crystal Palace,2020/2021,4,0,70.9,29.1,6,0,17,4,3,0
+789,58929,2020-10-03,Matchweek 4,Everton,Brighton and Hove Albion,2020/2021,4,2,43.4,56.6,6,3,11,11,3,0
+790,58930,2020-10-03,Matchweek 4,Leeds United,Manchester City,2020/2021,1,1,52.1,47.9,7,2,12,23,1,1
+791,58935,2020-10-04,Matchweek 4,Wolverhampton Wanderers,Fulham,2020/2021,1,0,47.1,52.9,5,2,14,10,3,0
+792,58926,2020-10-04,Matchweek 4,Arsenal,Sheffield United,2020/2021,2,1,64.5,35.5,5,2,6,6,3,0
+793,58931,2020-10-04,Matchweek 4,Leicester City,West Ham United,2020/2021,0,3,69.5,30.5,0,6,4,14,0,3
+794,58932,2020-10-04,Matchweek 4,Manchester United,Tottenham Hotspur,2020/2021,1,6,38.4,61.6,2,8,5,22,0,3
+795,58933,2020-10-04,Matchweek 4,Newcastle United,Burnley,2020/2021,3,1,47.7,52.3,5,3,10,7,3,0
+796,58934,2020-10-04,Matchweek 4,Southampton,West Bromwich Albion,2020/2021,2,0,61.6,38.4,7,2,13,5,3,0
+797,58927,2020-10-05,Matchweek 4,Aston Villa,Liverpool,2020/2021,7,2,30.2,69.8,11,8,18,14,3,0
+798,58936,2020-10-17,Matchweek 5,Chelsea,Southampton,2020/2021,3,3,53.4,46.6,5,6,11,13,1,1
+799,58941,2020-10-17,Matchweek 5,Manchester City,Arsenal,2020/2021,1,0,58.5,41.5,5,3,13,11,3,0
+800,58938,2020-10-17,Matchweek 5,Everton,Liverpool,2020/2021,2,2,41.9,58.1,5,8,11,22,1,1
+801,58944,2020-10-18,Matchweek 5,Tottenham Hotspur,West Ham United,2020/2021,3,3,51.2,48.8,6,4,11,13,1,1
+802,58943,2020-10-18,Matchweek 5,Sheffield United,Fulham,2020/2021,1,1,41.5,58.5,6,6,10,15,1,1
+803,58942,2020-10-18,Matchweek 5,Newcastle United,Manchester United,2020/2021,1,4,36.4,63.6,4,14,7,28,0,3
+804,58937,2020-10-18,Matchweek 5,Crystal Palace,Brighton and Hove Albion,2020/2021,1,1,34.3,65.7,1,3,1,20,1,1
+805,58940,2020-10-19,Matchweek 5,Leicester City,Aston Villa,2020/2021,0,1,50.5,49.5,5,4,11,10,0,3
+806,58945,2020-10-19,Matchweek 5,West Bromwich Albion,Burnley,2020/2021,0,0,56.8,43.2,6,4,13,9,1,1
+807,58939,2020-10-20,Matchweek 5,Leeds United,Wolverhampton Wanderers,2020/2021,0,1,67.8,32.2,2,3,13,7,0,3
+808,58950,2020-10-24,Matchweek 6,Fulham,Crystal Palace,2020/2021,1,2,64.2,35.8,3,10,16,14,0,3
+809,58952,2020-10-24,Matchweek 6,Manchester United,Chelsea,2020/2021,0,0,50.2,49.8,4,1,14,6,1,1
+810,58947,2020-10-24,Matchweek 6,Aston Villa,Leeds United,2020/2021,0,3,40.8,59.2,4,9,12,27,0,3
+811,58954,2020-10-24,Matchweek 6,West Ham United,Manchester City,2020/2021,1,1,30.5,69.5,2,7,6,14,1,1
+812,58951,2020-10-25,Matchweek 6,Liverpool,Sheffield United,2020/2021,2,1,62.2,37.8,5,2,17,13,3,0
+813,58953,2020-10-25,Matchweek 6,Southampton,Everton,2020/2021,2,0,54.3,45.7,6,2,13,6,3,0
+814,58955,2020-10-25,Matchweek 6,Wolverhampton Wanderers,Newcastle United,2020/2021,1,1,63.4,36.6,3,2,16,5,1,1
+815,58946,2020-10-26,Matchweek 6,Arsenal,Leicester City,2020/2021,0,1,56.3,43.7,4,2,12,6,0,3
+816,58948,2020-10-27,Matchweek 6,Brighton and Hove Albion,West Bromwich Albion,2020/2021,1,1,49.7,50.3,3,3,5,9,1,1
+817,58949,2020-10-27,Matchweek 6,Burnley,Tottenham Hotspur,2020/2021,0,1,38.3,61.7,4,3,13,9,0,3
+818,58965,2020-10-31,Matchweek 7,Wolverhampton Wanderers,Crystal Palace,2020/2021,2,0,45.0,55.0,5,2,15,11,3,0
+819,58957,2020-10-31,Matchweek 7,Burnley,Chelsea,2020/2021,0,3,36.3,63.7,0,9,5,14,0,3
+820,58963,2020-10-31,Matchweek 7,Sheffield United,Manchester City,2020/2021,0,1,35.2,64.8,1,8,3,16,0,3
+821,58960,2020-11-01,Matchweek 7,Liverpool,West Ham United,2020/2021,2,1,72.4,27.6,5,3,9,4,3,0
+822,58956,2020-11-01,Matchweek 7,Aston Villa,Southampton,2020/2021,3,4,55.9,44.1,10,4,19,9,0,3
+823,58962,2020-11-01,Matchweek 7,Newcastle United,Everton,2020/2021,2,1,37.7,62.3,4,4,11,15,3,0
+824,58961,2020-11-01,Matchweek 7,Manchester United,Arsenal,2020/2021,0,1,53.3,46.7,2,2,8,7,0,3
+825,58964,2020-11-02,Matchweek 7,Tottenham Hotspur,Brighton and Hove Albion,2020/2021,2,1,43.4,56.6,3,2,9,6,3,0
+826,58958,2020-11-03,Matchweek 7,Fulham,West Bromwich Albion,2020/2021,2,0,45.7,54.3,6,1,13,10,3,0
+827,58959,2020-11-03,Matchweek 7,Leeds United,Leicester City,2020/2021,1,4,67.5,32.5,4,8,11,10,0,3
+828,58973,2020-11-07,Matchweek 8,Southampton,Newcastle United,2020/2021,2,0,60.7,39.3,8,2,15,4,3,0
+829,58967,2020-11-07,Matchweek 8,Brighton and Hove Albion,Burnley,2020/2021,0,0,58.9,41.1,3,1,19,4,1,1
+830,58969,2020-11-07,Matchweek 8,Crystal Palace,Leeds United,2020/2021,4,1,35.2,64.8,6,3,10,9,3,0
+831,58970,2020-11-07,Matchweek 8,Everton,Manchester United,2020/2021,1,3,54.7,45.3,1,5,7,13,0,3
+832,58974,2020-11-08,Matchweek 8,West Bromwich Albion,Tottenham Hotspur,2020/2021,0,1,41.2,58.8,2,5,12,19,0,3
+833,58975,2020-11-08,Matchweek 8,West Ham United,Fulham,2020/2021,1,0,53.0,47.0,7,3,16,13,3,0
+834,58971,2020-11-08,Matchweek 8,Leicester City,Wolverhampton Wanderers,2020/2021,1,0,49.6,50.4,3,2,10,8,3,0
+835,58972,2020-11-08,Matchweek 8,Manchester City,Liverpool,2020/2021,1,1,54.6,45.4,2,3,7,10,1,1
+836,58968,2020-11-08,Matchweek 8,Chelsea,Sheffield United,2020/2021,4,1,70.1,29.9,9,3,20,6,3,0
+837,58966,2020-11-09,Matchweek 8,Arsenal,Aston Villa,2020/2021,0,3,58.8,41.2,2,6,13,15,0,3
+838,58976,2020-11-21,Matchweek 9,Aston Villa,Brighton and Hove Albion,2020/2021,1,2,55.4,44.6,4,3,15,7,0,3
+839,58982,2020-11-21,Matchweek 9,Newcastle United,Chelsea,2020/2021,0,2,29.0,71.0,1,3,8,14,0,3
+840,58983,2020-11-22,Matchweek 9,Sheffield United,West Ham United,2020/2021,0,1,50.9,49.1,5,3,9,15,0,3
+841,58984,2020-11-22,Matchweek 9,Tottenham Hotspur,Manchester City,2020/2021,2,0,33.9,66.1,2,5,4,22,3,0
+842,58978,2020-11-22,Matchweek 9,Fulham,Everton,2020/2021,2,3,54.1,45.9,6,7,14,9,0,3
+843,58979,2020-11-22,Matchweek 9,Leeds United,Arsenal,2020/2021,0,0,66.3,33.7,4,2,25,9,1,1
+844,58981,2020-11-22,Matchweek 9,Manchester United,West Bromwich Albion,2020/2021,1,0,63.1,36.9,7,2,17,7,3,0
+845,58980,2020-11-23,Matchweek 9,Liverpool,Leicester City,2020/2021,3,0,56.4,43.6,13,4,24,11,3,0
+846,58985,2020-11-24,Matchweek 9,Wolverhampton Wanderers,Southampton,2020/2021,1,1,45.3,54.7,9,2,20,7,1,1
+847,58977,2020-11-24,Matchweek 9,Burnley,Crystal Palace,2020/2021,1,0,46.1,53.9,4,5,10,15,3,0
+848,58989,2020-11-28,Matchweek 10,Crystal Palace,Newcastle United,2020/2021,0,2,57.4,42.6,3,7,12,14,0,3
+849,58987,2020-11-28,Matchweek 10,Brighton and Hove Albion,Liverpool,2020/2021,1,1,40.4,59.6,3,2,11,6,1,1
+850,58992,2020-11-28,Matchweek 10,Manchester City,Burnley,2020/2021,5,0,68.6,31.4,6,1,19,9,3,0
+851,58993,2020-11-29,Matchweek 10,Southampton,Manchester United,2020/2021,2,3,49.9,50.1,5,6,10,15,0,3
+852,58988,2020-11-29,Matchweek 10,Chelsea,Tottenham Hotspur,2020/2021,0,0,60.3,39.7,3,1,13,5,1,1
+853,58990,2020-11-29,Matchweek 10,Everton,Leeds United,2020/2021,0,1,41.8,58.2,8,6,15,23,0,3
+854,58994,2020-11-29,Matchweek 10,West Bromwich Albion,Sheffield United,2020/2021,1,0,48.7,51.3,6,5,17,21,3,0
+855,58986,2020-11-30,Matchweek 10,Arsenal,Wolverhampton Wanderers,2020/2021,1,2,56.2,43.8,2,5,13,11,0,3
+856,58995,2020-12-01,Matchweek 10,West Ham United,Aston Villa,2020/2021,2,1,34.0,66.0,2,6,6,16,3,0
+857,58991,2020-12-01,Matchweek 10,Leicester City,Fulham,2020/2021,1,2,68.0,32.0,3,5,16,10,0,3
+858,58998,2020-12-05,Matchweek 11,Burnley,Everton,2020/2021,1,1,41.4,58.6,3,6,8,13,1,1
+859,59001,2020-12-05,Matchweek 11,Manchester City,Fulham,2020/2021,2,0,68.9,31.1,5,1,15,6,3,0
+860,59005,2020-12-06,Matchweek 11,West Ham United,Manchester United,2020/2021,1,3,39.3,60.7,6,6,19,15,0,3
+861,58999,2020-12-06,Matchweek 11,Chelsea,Leeds United,2020/2021,3,1,45.8,54.2,11,3,23,8,3,0
+862,59002,2020-12-06,Matchweek 11,Sheffield United,Leicester City,2020/2021,1,2,29.7,70.3,1,4,4,13,0,3
+863,59003,2020-12-06,Matchweek 11,Tottenham Hotspur,Arsenal,2020/2021,2,0,30.2,69.8,3,2,5,11,3,0
+864,59004,2020-12-06,Matchweek 11,West Bromwich Albion,Crystal Palace,2020/2021,1,5,50.1,49.9,4,7,9,18,0,3
+865,59000,2020-12-07,Matchweek 11,Liverpool,Wolverhampton Wanderers,2020/2021,4,0,60.6,39.4,6,3,11,9,3,0
+866,58997,2020-12-08,Matchweek 11,Brighton and Hove Albion,Southampton,2020/2021,1,2,47.7,52.3,4,3,12,10,0,3
+867,59015,2020-12-12,Matchweek 12,Wolverhampton Wanderers,Aston Villa,2020/2021,0,1,50.5,49.5,7,2,16,13,0,3
+868,59013,2020-12-12,Matchweek 12,Newcastle United,West Bromwich Albion,2020/2021,2,1,45.3,54.7,7,3,12,13,3,0
+869,59010,2020-12-12,Matchweek 12,Leeds United,West Ham United,2020/2021,1,2,64.0,36.0,7,8,13,19,0,3
+870,59014,2020-12-13,Matchweek 12,Southampton,Sheffield United,2020/2021,3,0,68.2,31.8,6,0,16,3,3,0
+871,59009,2020-12-13,Matchweek 12,Fulham,Liverpool,2020/2021,1,1,24.9,75.1,5,6,10,12,1,1
+872,59012,2020-12-13,Matchweek 12,Manchester United,Manchester City,2020/2021,0,0,46.1,53.9,2,2,11,9,1,1
+873,59007,2020-12-13,Matchweek 12,Crystal Palace,Tottenham Hotspur,2020/2021,1,1,42.9,57.1,5,6,16,14,1,1
+874,59008,2020-12-13,Matchweek 12,Everton,Chelsea,2020/2021,1,0,28.0,72.0,4,3,9,10,3,0
+875,59006,2020-12-14,Matchweek 12,Arsenal,Burnley,2020/2021,0,1,64.7,35.3,6,2,18,10,0,3
+876,59011,2020-12-14,Matchweek 12,Leicester City,Brighton and Hove Albion,2020/2021,3,0,54.1,45.9,6,4,15,12,3,0
+877,59023,2020-12-16,Matchweek 13,Wolverhampton Wanderers,Chelsea,2020/2021,2,1,45.1,54.9,4,3,12,13,3,0
+878,59025,2020-12-16,Matchweek 13,Manchester City,West Bromwich Albion,2020/2021,1,1,77.2,22.8,7,1,26,5,1,1
+879,59020,2020-12-17,Matchweek 13,Leicester City,Everton,2020/2021,0,2,61.0,39.0,2,6,14,11,0,3
+880,59024,2020-12-17,Matchweek 13,Liverpool,Tottenham Hotspur,2020/2021,2,1,75.8,24.2,11,2,17,8,3,0
+881,59019,2020-12-17,Matchweek 13,Leeds United,Newcastle United,2020/2021,5,2,68.7,31.3,10,4,25,10,3,0
+882,59022,2020-12-17,Matchweek 13,West Ham United,Crystal Palace,2020/2021,1,1,51.9,48.1,2,2,9,8,1,1
+883,59016,2020-12-17,Matchweek 13,Arsenal,Southampton,2020/2021,1,1,35.2,64.8,4,3,9,13,1,1
+884,59018,2020-12-17,Matchweek 13,Fulham,Brighton and Hove Albion,2020/2021,0,0,46.4,53.6,4,4,9,9,1,1
+885,59017,2020-12-18,Matchweek 13,Aston Villa,Burnley,2020/2021,0,0,59.1,40.9,7,4,27,6,1,1
+886,59021,2020-12-18,Matchweek 13,Sheffield United,Manchester United,2020/2021,2,3,40.1,59.9,6,9,12,15,0,3
+887,59033,2020-12-19,Matchweek 14,Southampton,Manchester City,2020/2021,0,1,48.3,51.7,3,5,9,11,0,3
+888,59029,2020-12-19,Matchweek 14,Crystal Palace,Liverpool,2020/2021,0,7,35.3,64.7,3,8,5,14,0,3
+889,59034,2020-12-20,Matchweek 14,Tottenham Hotspur,Leicester City,2020/2021,0,2,56.4,43.6,3,4,8,17,0,3
+890,59026,2020-12-20,Matchweek 14,Brighton and Hove Albion,Sheffield United,2020/2021,1,1,73.5,26.5,5,3,21,5,1,1
+891,59032,2020-12-20,Matchweek 14,Newcastle United,Fulham,2020/2021,1,1,49.5,50.5,5,4,12,11,1,1
+892,59031,2020-12-20,Matchweek 14,Manchester United,Leeds United,2020/2021,6,2,41.5,58.5,14,4,26,17,3,0
+893,59030,2020-12-20,Matchweek 14,Everton,Arsenal,2020/2021,2,1,42.2,57.8,2,2,9,13,3,0
+894,59035,2020-12-21,Matchweek 14,West Bromwich Albion,Aston Villa,2020/2021,0,3,32.7,67.3,1,10,1,19,0,3
+895,59027,2020-12-22,Matchweek 14,Burnley,Wolverhampton Wanderers,2020/2021,2,1,36.4,63.6,4,3,10,15,3,0
+896,59028,2020-12-22,Matchweek 14,Chelsea,West Ham United,2020/2021,3,0,53.7,46.3,7,0,11,6,3,0
+897,59037,2020-12-26,Matchweek 15,Aston Villa,Crystal Palace,2020/2021,3,0,38.6,61.4,9,6,20,13,3,0
+898,59038,2020-12-26,Matchweek 15,Fulham,Southampton,2020/2021,0,0,46.7,53.3,1,2,10,3,1,1
+899,59040,2020-12-26,Matchweek 15,Leicester City,Manchester United,2020/2021,2,2,54.4,45.6,2,4,10,9,1,1
+900,59041,2020-12-27,Matchweek 15,Liverpool,West Bromwich Albion,2020/2021,1,1,78.4,21.6,2,3,17,5,1,1
+901,59036,2020-12-27,Matchweek 15,Arsenal,Chelsea,2020/2021,3,1,39.0,61.0,7,3,15,19,3,0
+902,59039,2020-12-27,Matchweek 15,Leeds United,Burnley,2020/2021,1,0,51.4,48.6,4,6,11,14,3,0
+903,59042,2020-12-27,Matchweek 15,Manchester City,Newcastle United,2020/2021,2,0,75.1,24.9,6,2,11,7,3,0
+904,59043,2020-12-27,Matchweek 15,Sheffield United,Everton,2020/2021,0,1,43.8,56.2,2,3,10,7,0,3
+905,59044,2020-12-27,Matchweek 15,West Ham United,Brighton and Hove Albion,2020/2021,2,2,43.6,56.4,4,4,11,13,1,1
+906,59049,2020-12-28,Matchweek 16,Crystal Palace,Leicester City,2020/2021,1,1,33.1,66.9,1,3,4,17,1,1
+907,59045,2020-12-28,Matchweek 15,Wolverhampton Wanderers,Tottenham Hotspur,2020/2021,1,1,54.8,45.2,6,3,11,6,1,1
+908,59048,2020-12-29,Matchweek 16,Chelsea,Aston Villa,2020/2021,1,1,63.4,36.6,5,2,16,10,1,1
+909,59047,2020-12-30,Matchweek 16,Burnley,Sheffield United,2020/2021,1,0,37.1,62.9,3,3,5,7,3,0
+910,59053,2020-12-30,Matchweek 16,Southampton,West Ham United,2020/2021,0,0,62.6,37.4,3,3,8,8,1,1
+911,59055,2020-12-30,Matchweek 16,West Bromwich Albion,Leeds United,2020/2021,0,5,24.4,75.6,1,6,4,14,0,3
+912,59046,2020-12-30,Matchweek 16,Brighton and Hove Albion,Arsenal,2020/2021,0,1,49.7,50.3,2,3,13,11,0,3
+913,59051,2020-12-30,Matchweek 16,Manchester United,Wolverhampton Wanderers,2020/2021,1,0,58.2,41.8,3,5,11,9,3,0
+914,59052,2020-12-31,Matchweek 16,Newcastle United,Liverpool,2020/2021,0,0,26.9,73.1,2,4,8,11,1,1
+915,59064,2021-01-02,Matchweek 17,Tottenham Hotspur,Leeds United,2020/2021,3,0,36.7,63.3,7,5,20,18,3,0
+916,59059,2021-01-02,Matchweek 17,Crystal Palace,Sheffield United,2020/2021,2,0,44.4,55.6,4,2,9,7,3,0
+917,59060,2021-01-02,Matchweek 17,Everton,West Ham United,2020/2021,0,1,60.0,40.0,2,5,10,11,0,3
+918,59061,2021-01-02,Matchweek 17,Manchester United,Aston Villa,2020/2021,2,1,48.4,51.6,9,5,19,15,3,0
+919,59056,2021-01-03,Matchweek 17,Brighton and Hove Albion,Wolverhampton Wanderers,2020/2021,3,3,54.5,45.5,4,4,13,11,1,1
+920,59058,2021-01-03,Matchweek 17,Chelsea,Manchester City,2020/2021,1,3,54.6,45.4,2,6,9,18,0,3
+921,59062,2021-01-03,Matchweek 17,Newcastle United,Leicester City,2020/2021,1,2,43.3,56.7,2,3,8,9,0,3
+922,59065,2021-01-03,Matchweek 17,West Bromwich Albion,Arsenal,2020/2021,0,4,38.1,61.9,3,12,7,21,0,3
+923,59063,2021-01-05,Matchweek 17,Southampton,Liverpool,2020/2021,1,0,33.0,67.0,3,1,7,17,3,0
+924,59071,2021-01-13,Matchweek 18,Sheffield United,Newcastle United,2020/2021,1,0,66.2,33.8,4,3,17,7,3,0
+925,59073,2021-01-13,Matchweek 18,Wolverhampton Wanderers,Everton,2020/2021,1,2,52.8,47.2,3,3,12,5,0,3
+926,58896,2021-01-13,Matchweek 18,Burnley,Manchester United,2020/2021,0,1,37.3,62.7,0,7,11,13,0,3
+927,59054,2021-01-14,Matchweek 18,Tottenham Hotspur,Fulham,2020/2021,1,1,52.4,47.6,6,4,15,15,1,1
+928,59075,2021-01-14,Matchweek 18,Manchester City,Brighton and Hove Albion,2020/2021,1,0,65.1,34.9,6,1,16,5,3,0
+929,59066,2021-01-15,Matchweek 18,Arsenal,Crystal Palace,2020/2021,0,0,67.3,32.7,4,2,11,12,1,1
+930,59084,2021-01-16,Matchweek 19,West Ham United,Burnley,2020/2021,1,0,44.8,55.2,4,2,15,10,3,0
+931,59079,2021-01-16,Matchweek 19,Leeds United,Brighton and Hove Albion,2020/2021,0,1,66.6,33.4,2,2,7,7,0,3
+932,59085,2021-01-16,Matchweek 19,Wolverhampton Wanderers,West Bromwich Albion,2020/2021,2,3,67.8,32.2,6,5,23,12,0,3
+933,59080,2021-01-17,Matchweek 19,Leicester City,Southampton,2020/2021,2,0,47.4,52.6,5,3,16,8,3,0
+934,59083,2021-01-17,Matchweek 19,Sheffield United,Tottenham Hotspur,2020/2021,1,3,42.0,58.0,5,5,15,14,0,3
+935,59081,2021-01-17,Matchweek 19,Liverpool,Manchester United,2020/2021,0,0,65.7,34.3,3,4,17,8,1,1
+936,59078,2021-01-17,Matchweek 19,Fulham,Chelsea,2020/2021,0,1,30.2,69.8,3,6,10,21,0,3
+937,59082,2021-01-18,Matchweek 19,Manchester City,Crystal Palace,2020/2021,4,0,72.2,27.8,6,0,13,2,3,0
+938,59076,2021-01-19,Matchweek 19,Arsenal,Newcastle United,2020/2021,3,0,66.4,33.6,6,1,20,4,3,0
+939,59070,2021-01-20,Matchweek 19,Leicester City,Chelsea,2020/2021,2,0,35.6,64.4,6,5,8,9,3,0
+940,59072,2021-01-20,Matchweek 19,West Ham United,West Bromwich Albion,2020/2021,2,1,59.0,41.0,6,2,14,6,3,0
+941,58900,2021-01-21,Matchweek 19,Manchester City,Aston Villa,2020/2021,2,0,69.1,30.9,9,4,28,11,3,0
+942,59068,2021-01-21,Matchweek 19,Fulham,Manchester United,2020/2021,1,2,38.4,61.6,5,5,12,15,0,3
+943,59074,2021-01-22,Matchweek 19,Liverpool,Burnley,2020/2021,0,1,71.8,28.2,6,4,27,6,0,3
+944,58996,2021-01-24,Matchweek 19,Aston Villa,Newcastle United,2020/2021,2,0,59.2,40.8,5,1,14,7,3,0
+945,59094,2021-01-27,Matchweek 20,Southampton,Arsenal,2020/2021,1,3,58.0,42.0,5,5,13,9,0,3
+946,59090,2021-01-27,Matchweek 20,West Bromwich Albion,Manchester City,2020/2021,0,5,22.3,77.7,1,7,4,18,0,3
+947,59092,2021-01-27,Matchweek 20,Crystal Palace,West Ham United,2020/2021,2,3,54.2,45.8,3,7,6,17,0,3
+948,59093,2021-01-27,Matchweek 20,Newcastle United,Leeds United,2020/2021,1,2,42.3,57.7,5,2,22,9,0,3
+949,59089,2021-01-28,Matchweek 20,Manchester United,Sheffield United,2020/2021,1,2,75.8,24.2,4,3,16,5,0,3
+950,59088,2021-01-28,Matchweek 20,Everton,Leicester City,2020/2021,1,1,35.0,65.0,2,6,8,19,1,1
+951,59091,2021-01-28,Matchweek 20,Chelsea,Wolverhampton Wanderers,2020/2021,0,0,78.9,21.1,5,0,14,4,1,1
+952,59086,2021-01-28,Matchweek 20,Brighton and Hove Albion,Fulham,2020/2021,0,0,49.5,50.5,5,3,16,10,1,1
+953,59087,2021-01-28,Matchweek 20,Burnley,Aston Villa,2020/2021,3,2,38.2,61.8,5,10,10,18,3,0
+954,59095,2021-01-29,Matchweek 20,Tottenham Hotspur,Liverpool,2020/2021,1,3,49.8,50.2,2,7,3,14,0,3
+955,59102,2021-01-30,Matchweek 21,Manchester City,Sheffield United,2020/2021,1,0,75.0,25.0,5,1,10,4,3,0
+956,59100,2021-01-30,Matchweek 21,Everton,Newcastle United,2020/2021,0,2,60.9,39.1,3,3,11,13,0,3
+957,59099,2021-01-30,Matchweek 21,Crystal Palace,Wolverhampton Wanderers,2020/2021,1,0,47.3,52.7,2,4,11,6,3,0
+958,59104,2021-01-30,Matchweek 21,West Bromwich Albion,Fulham,2020/2021,2,2,37.5,62.5,3,7,5,12,1,1
+959,59096,2021-01-31,Matchweek 21,Arsenal,Manchester United,2020/2021,0,0,43.3,56.7,3,3,17,14,1,1
+960,59098,2021-01-31,Matchweek 21,Chelsea,Burnley,2020/2021,2,0,71.1,28.9,8,0,19,1,3,0
+961,59101,2021-01-31,Matchweek 21,Leicester City,Leeds United,2020/2021,1,3,50.8,49.2,8,7,18,8,0,3
+962,59103,2021-01-31,Matchweek 21,Southampton,Aston Villa,2020/2021,0,1,59.8,40.2,5,4,20,8,0,3
+963,59105,2021-01-31,Matchweek 21,West Ham United,Liverpool,2020/2021,1,3,32.8,67.2,2,5,8,14,0,3
+964,59097,2021-02-01,Matchweek 21,Brighton and Hove Albion,Tottenham Hotspur,2020/2021,1,0,43.2,56.8,5,4,16,8,3,0
+965,59114,2021-02-03,Matchweek 22,Newcastle United,Crystal Palace,2020/2021,1,2,61.3,38.7,5,3,21,6,0,3
+966,59112,2021-02-03,Matchweek 22,Wolverhampton Wanderers,Arsenal,2020/2021,2,1,54.6,45.4,7,3,11,9,3,0
+967,59111,2021-02-03,Matchweek 22,Sheffield United,West Bromwich Albion,2020/2021,2,1,68.3,31.7,6,4,14,8,3,0
+968,59110,2021-02-03,Matchweek 22,Manchester United,Southampton,2020/2021,9,0,74.6,25.4,14,1,24,3,3,0
+969,59109,2021-02-04,Matchweek 22,Leeds United,Everton,2020/2021,1,2,63.2,36.8,7,6,16,10,0,3
+970,59108,2021-02-04,Matchweek 22,Fulham,Leicester City,2020/2021,0,2,57.5,42.5,1,5,8,9,0,3
+971,59107,2021-02-04,Matchweek 22,Burnley,Manchester City,2020/2021,0,2,25.7,74.3,0,6,2,13,0,3
+972,59106,2021-02-04,Matchweek 22,Aston Villa,West Ham United,2020/2021,1,3,56.5,43.5,2,10,9,20,0,3
+973,59113,2021-02-04,Matchweek 22,Liverpool,Brighton and Hove Albion,2020/2021,0,1,63.4,36.6,1,4,11,13,0,3
+974,59115,2021-02-05,Matchweek 22,Tottenham Hotspur,Chelsea,2020/2021,0,1,42.0,58.0,2,2,7,16,0,3
+975,59116,2021-02-06,Matchweek 23,Aston Villa,Arsenal,2020/2021,1,0,33.6,66.4,8,3,12,14,3,0
+976,59117,2021-02-06,Matchweek 23,Burnley,Brighton and Hove Albion,2020/2021,1,1,54.5,45.5,7,2,20,10,1,1
+977,59122,2021-02-06,Matchweek 23,Newcastle United,Southampton,2020/2021,3,2,26.2,73.8,4,5,6,14,3,0
+978,59118,2021-02-07,Matchweek 23,Fulham,West Ham United,2020/2021,0,0,60.6,39.4,2,1,20,8,1,1
+979,59124,2021-02-07,Matchweek 23,Tottenham Hotspur,West Bromwich Albion,2020/2021,2,0,65.6,34.4,6,1,13,4,3,0
+980,59120,2021-02-07,Matchweek 23,Liverpool,Manchester City,2020/2021,1,4,55.9,44.1,3,5,8,8,0,3
+981,59125,2021-02-07,Matchweek 23,Wolverhampton Wanderers,Leicester City,2020/2021,0,0,43.9,56.1,1,3,13,13,1,1
+982,59121,2021-02-07,Matchweek 23,Manchester United,Everton,2020/2021,3,3,62.0,38.0,5,3,14,6,1,1
+983,59123,2021-02-08,Matchweek 23,Sheffield United,Chelsea,2020/2021,1,2,31.1,68.9,3,3,8,9,0,3
+984,59119,2021-02-09,Matchweek 23,Leeds United,Crystal Palace,2020/2021,2,0,68.2,31.8,7,3,17,8,3,0
+985,59129,2021-02-13,Matchweek 24,Crystal Palace,Burnley,2020/2021,0,3,53.3,46.7,3,4,13,16,0,3
+986,59131,2021-02-13,Matchweek 24,Leicester City,Liverpool,2020/2021,3,1,38.0,62.0,6,4,11,15,3,0
+987,59132,2021-02-14,Matchweek 24,Manchester City,Tottenham Hotspur,2020/2021,3,0,60.4,39.6,6,3,15,7,3,0
+988,59133,2021-02-14,Matchweek 24,Southampton,Wolverhampton Wanderers,2020/2021,1,2,51.1,48.9,3,4,7,10,0,3
+989,59134,2021-02-14,Matchweek 24,West Bromwich Albion,Manchester United,2020/2021,1,1,26.9,73.1,3,7,7,10,1,1
+990,59127,2021-02-14,Matchweek 24,Brighton and Hove Albion,Aston Villa,2020/2021,0,0,58.2,41.8,9,1,26,4,1,1
+991,59126,2021-02-14,Matchweek 24,Arsenal,Leeds United,2020/2021,4,2,45.9,54.1,5,5,13,9,3,0
+992,59130,2021-02-15,Matchweek 24,Everton,Fulham,2020/2021,0,2,49.7,50.3,2,3,7,12,0,3
+993,59128,2021-02-16,Matchweek 24,Chelsea,Newcastle United,2020/2021,2,0,65.6,34.4,6,4,18,10,3,0
+994,59135,2021-02-16,Matchweek 24,West Ham United,Sheffield United,2020/2021,3,0,45.9,54.1,9,5,13,8,3,0
+995,59057,2021-02-18,Matchweek 24,Burnley,Fulham,2020/2021,1,1,46.0,54.0,3,3,8,8,1,1
+996,59050,2021-02-18,Matchweek 24,Everton,Manchester City,2020/2021,1,3,29.6,70.4,2,7,3,16,0,3
+997,59145,2021-02-20,Matchweek 25,Wolverhampton Wanderers,Leeds United,2020/2021,1,0,41.0,59.0,5,7,15,18,3,0
+998,59143,2021-02-20,Matchweek 25,Southampton,Chelsea,2020/2021,1,1,29.1,70.9,1,3,4,9,1,1
+999,59139,2021-02-20,Matchweek 25,Burnley,West Bromwich Albion,2020/2021,0,0,62.1,37.9,1,3,6,10,1,1
+1000,59144,2021-02-21,Matchweek 25,West Ham United,Tottenham Hotspur,2020/2021,2,1,30.8,69.2,4,4,4,20,3,0
+1001,59141,2021-02-21,Matchweek 25,Liverpool,Everton,2020/2021,0,2,71.4,28.6,6,6,15,9,0,3
+1002,59137,2021-02-21,Matchweek 25,Aston Villa,Leicester City,2020/2021,1,2,49.9,50.1,2,7,11,16,0,3
+1003,59140,2021-02-21,Matchweek 25,Fulham,Sheffield United,2020/2021,1,0,65.1,34.9,7,2,15,4,3,0
+1004,59136,2021-02-21,Matchweek 25,Arsenal,Manchester City,2020/2021,0,1,45.0,55.0,1,3,7,15,0,3
+1005,59142,2021-02-22,Matchweek 25,Manchester United,Newcastle United,2020/2021,3,1,71.6,28.4,7,6,15,10,3,0
+1006,59138,2021-02-23,Matchweek 25,Brighton and Hove Albion,Crystal Palace,2020/2021,1,2,74.5,25.5,5,2,25,3,0,3
+1007,59069,2021-02-24,Matchweek 25,Leeds United,Southampton,2020/2021,3,0,46.7,53.3,7,5,11,13,3,0
+1008,59151,2021-02-27,Matchweek 26,Manchester City,West Ham United,2020/2021,2,1,63.2,36.8,3,3,10,9,3,0
+1009,59155,2021-02-27,Matchweek 26,West Bromwich Albion,Brighton and Hove Albion,2020/2021,1,0,29.9,70.1,2,6,6,15,3,0
+1010,59149,2021-02-28,Matchweek 26,Leeds United,Aston Villa,2020/2021,0,1,69.2,30.8,3,4,13,9,0,3
+1011,59150,2021-02-28,Matchweek 26,Leicester City,Arsenal,2020/2021,1,3,44.2,55.8,3,4,8,12,0,3
+1012,59147,2021-02-28,Matchweek 26,Crystal Palace,Fulham,2020/2021,0,0,40.4,59.6,0,4,3,16,1,1
+1013,59152,2021-02-28,Matchweek 26,Newcastle United,Wolverhampton Wanderers,2020/2021,1,1,47.6,52.4,7,4,19,14,1,1
+1014,59154,2021-02-28,Matchweek 26,Tottenham Hotspur,Burnley,2020/2021,4,0,58.3,41.7,7,3,16,10,3,0
+1015,59146,2021-02-28,Matchweek 26,Chelsea,Manchester United,2020/2021,0,0,57.4,42.6,6,4,18,11,1,1
+1016,59153,2021-03-01,Matchweek 26,Sheffield United,Liverpool,2020/2021,0,2,39.3,60.7,2,8,8,16,0,3
+1017,59148,2021-03-02,Matchweek 26,Everton,Southampton,2020/2021,1,0,46.6,53.4,1,1,7,9,3,0
+1018,59181,2021-03-03,Matchweek 26,Manchester City,Wolverhampton Wanderers,2020/2021,4,1,72.1,27.9,10,1,22,6,3,0
+1019,59182,2021-03-04,Matchweek 26,Sheffield United,Aston Villa,2020/2021,1,0,28.2,71.8,2,4,9,16,3,0
+1020,59178,2021-03-04,Matchweek 26,Crystal Palace,Manchester United,2020/2021,0,0,37.0,63.0,2,1,8,11,1,1
+1021,59177,2021-03-04,Matchweek 26,Burnley,Leicester City,2020/2021,1,1,38.9,61.1,7,4,12,16,1,1
+1022,59184,2021-03-05,Matchweek 26,West Bromwich Albion,Everton,2020/2021,0,1,48.1,51.9,3,3,11,11,0,3
+1023,59180,2021-03-05,Matchweek 26,Liverpool,Chelsea,2020/2021,0,1,54.2,45.8,1,5,7,11,0,3
+1024,59218,2021-03-05,Matchweek 26,Fulham,Tottenham Hotspur,2020/2021,0,1,59.6,40.4,3,2,11,9,0,3
+1025,59158,2021-03-06,Matchweek 27,Burnley,Arsenal,2020/2021,1,1,41.1,58.9,5,3,9,15,1,1
+1026,59162,2021-03-06,Matchweek 27,Sheffield United,Southampton,2020/2021,0,2,50.9,49.1,2,7,8,15,0,3
+1027,59164,2021-03-07,Matchweek 27,West Bromwich Albion,Newcastle United,2020/2021,0,0,52.8,47.2,3,5,13,9,1,1
+1028,59161,2021-03-07,Matchweek 27,Manchester City,Manchester United,2020/2021,0,2,65.9,34.1,6,6,23,8,0,3
+1029,59160,2021-03-07,Matchweek 27,Liverpool,Fulham,2020/2021,0,1,63.1,36.9,3,3,16,10,0,3
+1030,59157,2021-03-07,Matchweek 27,Brighton and Hove Albion,Leicester City,2020/2021,1,2,36.6,63.4,2,4,7,8,0,3
+1031,59156,2021-03-07,Matchweek 27,Aston Villa,Wolverhampton Wanderers,2020/2021,0,0,49.2,50.8,1,2,9,10,1,1
+1032,59163,2021-03-08,Matchweek 27,Tottenham Hotspur,Crystal Palace,2020/2021,4,1,64.2,35.8,5,1,12,5,3,0
+1033,59165,2021-03-09,Matchweek 27,West Ham United,Leeds United,2020/2021,2,0,34.7,65.3,5,2,16,17,3,0
+1034,59159,2021-03-09,Matchweek 27,Chelsea,Everton,2020/2021,2,0,65.5,34.5,9,1,19,7,3,0
+1035,59222,2021-03-11,Matchweek 27,Manchester City,Southampton,2020/2021,5,2,58.3,41.7,10,6,17,11,3,0
+1036,59170,2021-03-13,Matchweek 28,Leeds United,Chelsea,2020/2021,0,0,37.7,62.3,4,8,7,15,1,1
+1037,59167,2021-03-13,Matchweek 28,Crystal Palace,West Bromwich Albion,2020/2021,1,0,44.3,55.7,4,1,6,12,3,0
+1038,59173,2021-03-13,Matchweek 28,Newcastle United,Aston Villa,2020/2021,1,1,49.2,50.8,3,6,12,15,1,1
+1039,59171,2021-03-14,Matchweek 28,Leicester City,Sheffield United,2020/2021,5,0,71.7,28.3,10,0,19,1,3,0
+1040,59169,2021-03-14,Matchweek 28,Fulham,Manchester City,2020/2021,0,3,46.1,53.9,0,7,3,8,0,3
+1041,59168,2021-03-14,Matchweek 28,Everton,Burnley,2020/2021,1,2,65.5,34.5,4,5,14,14,0,3
+1042,59166,2021-03-14,Matchweek 28,Arsenal,Tottenham Hotspur,2020/2021,2,1,52.6,47.4,3,3,13,6,3,0
+1043,59174,2021-03-14,Matchweek 28,Southampton,Brighton and Hove Albion,2020/2021,1,2,59.4,40.6,4,6,9,8,0,3
+1044,59172,2021-03-15,Matchweek 28,Manchester United,West Ham United,2020/2021,1,0,61.8,38.2,4,0,15,7,3,0
+1045,59175,2021-03-16,Matchweek 28,Wolverhampton Wanderers,Liverpool,2020/2021,0,1,52.7,47.3,5,4,10,12,0,3
+1046,59179,2021-03-20,Matchweek 29,Fulham,Leeds United,2020/2021,1,2,51.2,48.8,6,4,13,13,0,3
+1047,59185,2021-03-21,Matchweek 29,West Ham United,Arsenal,2020/2021,3,3,36.9,63.1,5,7,15,16,1,1
+1048,59176,2021-03-21,Matchweek 29,Brighton and Hove Albion,Newcastle United,2020/2021,3,0,65.3,34.7,6,1,11,3,3,0
+1049,59067,2021-03-22,Matchweek 29,Aston Villa,Tottenham Hotspur,2020/2021,0,2,50.1,49.9,1,3,8,9,0,3
+1050,59190,2021-04-03,Matchweek 30,Leeds United,Sheffield United,2020/2021,2,1,54.1,45.9,8,1,23,9,3,0
+1051,59191,2021-04-03,Matchweek 30,Leicester City,Manchester City,2020/2021,0,2,43.8,56.2,2,4,5,11,0,3
+1052,59188,2021-04-03,Matchweek 30,Chelsea,West Bromwich Albion,2020/2021,2,5,66.2,33.8,8,7,18,14,0,3
+1053,59193,2021-04-04,Matchweek 30,Newcastle United,Tottenham Hotspur,2020/2021,2,2,41.2,58.8,6,5,22,11,1,1
+1054,59194,2021-04-04,Matchweek 30,Southampton,Burnley,2020/2021,3,2,53.4,46.6,9,5,24,7,3,0
+1055,59187,2021-04-04,Matchweek 30,Aston Villa,Fulham,2020/2021,3,1,52.5,47.5,4,7,14,15,3,0
+1056,59186,2021-04-04,Matchweek 30,Arsenal,Liverpool,2020/2021,0,3,35.8,64.2,2,7,3,16,0,3
+1057,59192,2021-04-05,Matchweek 30,Manchester United,Brighton and Hove Albion,2020/2021,2,1,57.7,42.3,7,3,15,5,3,0
+1058,59189,2021-04-06,Matchweek 30,Everton,Crystal Palace,2020/2021,1,1,47.5,52.5,7,6,15,13,1,1
+1059,59195,2021-04-06,Matchweek 30,Wolverhampton Wanderers,West Ham United,2020/2021,2,3,66.1,33.9,5,6,20,9,0,3
+1060,59199,2021-04-10,Matchweek 31,Fulham,Wolverhampton Wanderers,2020/2021,0,1,49.6,50.4,3,3,14,7,0,3
+1061,59200,2021-04-10,Matchweek 31,Liverpool,Aston Villa,2020/2021,2,1,66.3,33.7,10,5,23,9,3,0
+1062,59201,2021-04-10,Matchweek 31,Manchester City,Leeds United,2020/2021,1,2,71.1,28.9,7,2,29,2,0,3
+1063,59198,2021-04-10,Matchweek 31,Crystal Palace,Chelsea,2020/2021,1,4,35.7,64.3,1,10,1,23,0,3
+1064,59203,2021-04-11,Matchweek 31,Tottenham Hotspur,Manchester United,2020/2021,1,3,46.8,53.2,3,7,12,12,0,3
+1065,59205,2021-04-11,Matchweek 31,West Ham United,Leicester City,2020/2021,3,2,36.3,63.7,4,5,4,15,3,0
+1066,59197,2021-04-11,Matchweek 31,Burnley,Newcastle United,2020/2021,1,2,57.1,42.9,4,5,24,10,0,3
+1067,59202,2021-04-12,Matchweek 31,Sheffield United,Arsenal,2020/2021,0,3,45.1,54.9,2,5,7,14,0,3
+1068,59204,2021-04-13,Matchweek 31,West Bromwich Albion,Southampton,2020/2021,3,0,39.5,60.5,6,4,15,14,3,0
+1069,59196,2021-04-13,Matchweek 31,Brighton and Hove Albion,Everton,2020/2021,0,0,55.2,44.8,3,1,23,8,1,1
+1070,59209,2021-04-17,Matchweek 32,Everton,Tottenham Hotspur,2020/2021,2,2,52.8,47.2,7,3,18,12,1,1
+1071,59213,2021-04-17,Matchweek 32,Newcastle United,West Ham United,2020/2021,3,2,34.6,65.4,8,6,16,16,3,0
+1072,59206,2021-04-18,Matchweek 32,Arsenal,Fulham,2020/2021,1,1,69.5,30.5,5,1,18,3,1,1
+1073,59212,2021-04-18,Matchweek 32,Manchester United,Burnley,2020/2021,3,1,69.4,30.6,9,3,17,10,3,0
+1074,59215,2021-04-18,Matchweek 32,Wolverhampton Wanderers,Sheffield United,2020/2021,1,0,47.5,52.5,5,2,10,8,3,0
+1075,59210,2021-04-20,Matchweek 32,Leeds United,Liverpool,2020/2021,1,1,61.9,38.1,5,7,12,17,1,1
+1076,59208,2021-04-21,Matchweek 32,Chelsea,Brighton and Hove Albion,2020/2021,0,0,64.4,35.6,4,2,7,11,1,1
+1077,59207,2021-04-22,Matchweek 32,Aston Villa,Manchester City,2020/2021,1,2,28.0,72.0,3,3,8,13,0,3
+1078,59183,2021-04-22,Matchweek 32,Tottenham Hotspur,Southampton,2020/2021,2,1,61.7,38.3,3,5,12,10,3,0
+1079,59211,2021-04-23,Matchweek 32,Leicester City,West Bromwich Albion,2020/2021,3,0,72.7,27.3,7,1,17,4,3,0
+1080,59216,2021-04-24,Matchweek 33,Arsenal,Everton,2020/2021,0,1,59.1,40.9,3,1,14,8,0,3
+1081,59224,2021-04-24,Matchweek 33,West Ham United,Chelsea,2020/2021,0,1,44.5,55.5,2,6,9,17,0,3
+1082,59221,2021-04-24,Matchweek 33,Liverpool,Newcastle United,2020/2021,1,1,68.5,31.5,9,4,22,7,1,1
+1083,59223,2021-04-25,Matchweek 33,Sheffield United,Brighton and Hove Albion,2020/2021,1,0,31.5,68.5,3,4,7,17,3,0
+1084,59225,2021-04-25,Matchweek 33,Wolverhampton Wanderers,Burnley,2020/2021,0,4,59.2,40.8,2,7,12,14,0,3
+1085,59219,2021-04-25,Matchweek 33,Leeds United,Manchester United,2020/2021,0,0,44.2,55.8,3,4,6,16,1,1
+1086,59217,2021-04-26,Matchweek 33,Aston Villa,West Bromwich Albion,2020/2021,2,2,70.2,29.8,11,4,24,10,1,1
+1087,59220,2021-04-27,Matchweek 33,Leicester City,Crystal Palace,2020/2021,2,1,66.8,33.2,5,2,13,4,3,0
+1088,59233,2021-05-01,Matchweek 34,Southampton,Leicester City,2020/2021,1,1,29.2,70.8,3,9,5,23,1,1
+1089,59226,2021-05-01,Matchweek 34,Brighton and Hove Albion,Leeds United,2020/2021,2,0,41.9,58.1,5,2,17,11,3,0
+1090,59228,2021-05-01,Matchweek 34,Chelsea,Fulham,2020/2021,2,0,48.7,51.3,5,3,9,10,3,0
+1091,59229,2021-05-01,Matchweek 34,Crystal Palace,Manchester City,2020/2021,0,2,30.0,70.0,4,3,9,20,0,3
+1092,59230,2021-05-02,Matchweek 34,Everton,Aston Villa,2020/2021,1,2,47.5,52.5,3,5,16,13,0,3
+1093,59232,2021-05-02,Matchweek 34,Newcastle United,Arsenal,2020/2021,0,2,38.6,61.4,1,5,5,19,0,3
+1094,59234,2021-05-03,Matchweek 34,Tottenham Hotspur,Sheffield United,2020/2021,4,0,65.8,34.2,11,1,20,8,3,0
+1095,59235,2021-05-04,Matchweek 34,West Bromwich Albion,Wolverhampton Wanderers,2020/2021,1,1,42.4,57.6,4,10,10,20,1,1
+1096,59227,2021-05-04,Matchweek 34,Burnley,West Ham United,2020/2021,1,2,44.6,55.4,3,4,8,22,0,3
+1097,59242,2021-05-08,Matchweek 35,Manchester City,Chelsea,2020/2021,1,2,48.3,51.7,4,5,16,12,0,3
+1098,59240,2021-05-08,Matchweek 35,Leicester City,Newcastle United,2020/2021,2,4,68.3,31.7,9,6,25,14,0,3
+1099,59239,2021-05-08,Matchweek 35,Leeds United,Tottenham Hotspur,2020/2021,3,1,53.3,46.7,7,3,16,11,3,0
+1100,59243,2021-05-08,Matchweek 35,Sheffield United,Crystal Palace,2020/2021,0,2,49.8,50.2,0,8,7,21,0,3
+1101,59237,2021-05-09,Matchweek 35,Aston Villa,Manchester United,2020/2021,1,3,41.1,58.9,5,7,11,18,0,3
+1102,59241,2021-05-09,Matchweek 35,Liverpool,Southampton,2020/2021,2,0,54.1,45.9,6,6,14,12,3,0
+1103,59244,2021-05-09,Matchweek 35,West Ham United,Everton,2020/2021,0,1,68.6,31.4,0,3,11,9,0,3
+1104,59245,2021-05-09,Matchweek 35,Wolverhampton Wanderers,Brighton and Hove Albion,2020/2021,2,1,60.7,39.3,6,3,16,5,3,0
+1105,59236,2021-05-10,Matchweek 35,Arsenal,West Bromwich Albion,2020/2021,3,1,65.7,34.3,7,1,15,12,3,0
+1106,59238,2021-05-11,Matchweek 35,Fulham,Burnley,2020/2021,0,2,68.0,32.0,3,5,21,14,0,3
+1107,59214,2021-05-12,Matchweek 35,Southampton,Crystal Palace,2020/2021,3,1,62.7,37.3,6,4,13,11,3,0
+1108,59249,2021-05-12,Matchweek 35,Manchester United,Leicester City,2020/2021,1,2,53.1,46.9,1,3,4,12,0,3
+1109,59251,2021-05-13,Matchweek 35,Chelsea,Arsenal,2020/2021,0,1,67.7,32.3,5,2,19,5,0,3
+1110,59231,2021-05-14,Matchweek 35,Manchester United,Liverpool,2020/2021,2,4,53.3,46.7,3,8,18,17,0,3
+1111,59077,2021-05-14,Matchweek 35,Aston Villa,Everton,2020/2021,0,0,58.0,42.0,2,5,13,15,1,1
+1112,59254,2021-05-15,Matchweek 36,Southampton,Fulham,2020/2021,3,1,46.2,53.8,7,3,11,10,3,0
+1113,59253,2021-05-15,Matchweek 36,Newcastle United,Manchester City,2020/2021,3,4,17.9,82.1,5,6,11,15,0,3
+1114,59247,2021-05-15,Matchweek 36,Burnley,Leeds United,2020/2021,0,4,48.2,51.8,4,6,16,16,0,3
+1115,59250,2021-05-16,Matchweek 36,West Bromwich Albion,Liverpool,2020/2021,1,2,23.7,76.3,3,6,9,26,0,3
+1116,59255,2021-05-16,Matchweek 36,Tottenham Hotspur,Wolverhampton Wanderers,2020/2021,2,0,61.9,38.1,13,3,24,15,3,0
+1117,59246,2021-05-16,Matchweek 36,Brighton and Hove Albion,West Ham United,2020/2021,1,1,51.1,48.9,2,3,10,15,1,1
+1118,59252,2021-05-16,Matchweek 36,Crystal Palace,Aston Villa,2020/2021,3,2,45.5,54.5,8,5,23,19,3,0
+1119,59248,2021-05-17,Matchweek 36,Everton,Sheffield United,2020/2021,0,1,62.4,37.6,6,3,16,10,0,3
+1120,59256,2021-05-19,Matchweek 37,Brighton and Hove Albion,Manchester City,2020/2021,3,2,62.7,37.3,6,4,19,8,3,0
+1121,59258,2021-05-19,Matchweek 37,Chelsea,Leicester City,2020/2021,2,1,58.6,41.4,6,3,17,7,3,0
+1122,59261,2021-05-19,Matchweek 37,Manchester United,Fulham,2020/2021,1,1,57.1,42.9,6,5,13,8,1,1
+1123,59263,2021-05-19,Matchweek 37,Southampton,Leeds United,2020/2021,0,2,51.3,48.7,3,7,18,15,0,3
+1124,59265,2021-05-20,Matchweek 37,West Bromwich Albion,West Ham United,2020/2021,1,3,52.5,47.5,4,9,14,21,0,3
+1125,59259,2021-05-20,Matchweek 37,Crystal Palace,Arsenal,2020/2021,1,3,31.3,68.7,6,3,12,6,0,3
+1126,59262,2021-05-20,Matchweek 37,Newcastle United,Sheffield United,2020/2021,1,0,50.9,49.1,5,1,16,11,3,0
+1127,59260,2021-05-20,Matchweek 37,Everton,Wolverhampton Wanderers,2020/2021,1,0,41.0,59.0,4,3,14,9,3,0
+1128,59257,2021-05-20,Matchweek 37,Burnley,Liverpool,2020/2021,0,3,41.2,58.8,4,3,10,20,0,3
+1129,59264,2021-05-20,Matchweek 37,Tottenham Hotspur,Aston Villa,2020/2021,1,2,60.8,39.2,4,4,10,20,0,3
+1130,59267,2021-05-23,Matchweek 38,Aston Villa,Chelsea,2020/2021,2,1,28.8,71.2,3,7,6,23,3,0
+1131,59268,2021-05-23,Matchweek 38,Fulham,Newcastle United,2020/2021,0,2,64.3,35.7,0,4,14,10,0,3
+1132,59269,2021-05-23,Matchweek 38,Leeds United,West Bromwich Albion,2020/2021,3,1,64.4,35.6,9,5,17,14,3,0
+1133,59270,2021-05-23,Matchweek 38,Leicester City,Tottenham Hotspur,2020/2021,2,4,47.0,53.0,6,4,10,11,0,3
+1134,59271,2021-05-23,Matchweek 38,Liverpool,Crystal Palace,2020/2021,2,0,69.6,30.4,5,4,19,5,3,0
+1135,59272,2021-05-23,Matchweek 38,Manchester City,Everton,2020/2021,5,0,67.7,32.3,11,3,21,8,3,0
+1136,59273,2021-05-23,Matchweek 38,Sheffield United,Burnley,2020/2021,1,0,43.0,57.0,3,3,12,10,3,0
+1137,59274,2021-05-23,Matchweek 38,West Ham United,Southampton,2020/2021,3,0,36.9,63.1,7,5,14,17,3,0
+1138,59275,2021-05-23,Matchweek 38,Wolverhampton Wanderers,Manchester United,2020/2021,1,2,57.2,42.8,4,4,14,9,0,3
+1139,59266,2021-05-23,Matchweek 38,Arsenal,Brighton and Hove Albion,2020/2021,2,0,53.9,46.1,5,1,16,5,3,0
